@@ -1,3 +1,13 @@
+trojan://telegram-id-privatevpns@15.188.253.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@193.135.174.135:990#%40v2rayconfigamir%205456
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.134.21.8:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#%40v2rayconfigamir%201929
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%40v2rayconfigamir%203893
+trojan://b65cbe72-59e2-4011-a22b-760621b5921f@65.109.129.120:80?security=tls&headerType=none&type=tcp&sni=fl.configasli.xyz#%40v2rayconfigamir%203614
+vmess://eyJhZGQiOiIxOTguNDEuMjA4LjE3MiIsImFpZCI6IjAiLCJob3N0Ijoic2ctZ2NvcmUtMi5zaGFyZWNlbnRyZS5vbmxpbmUiLCJpZCI6IjIwZTkyODgxLTVmYjQtNGIwNS1iYzc3LTU3OTI5NDc2ZGM2OSIsIm5ldCI6IndzIiwicGF0aCI6Ii9zaGlya2VyIiwicG9ydCI6IjQ0MyIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA4NTYyIiwic2N5IjoiYXV0byIsInNuaSI6InNnLWdjb3JlLTIuc2hhcmVjZW50cmUub25saW5lIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%94%B0%20%40ghalagyann%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#%F0%9F%94%B0%20%40ghalagyann%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowY2RkZTY5NTg3MzU2NWVl@38.54.59.38:11204#%40v2rayconfigamir%208125
+vless://be2557f7-a0df-4393-b71b-28013847059f@fastly3.hamrahflow.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=Valsiin.com&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
 vless://2c564cf2-2291-4c8a-ad02-d8db601c41f9@5.180.47.159:8443?security=reality&encryption=none&pbk=Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9edc548e1e284d84#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
 vless://1218c022-dca8-49e5-b7d4-a04f3023db81@89.185.81.169:443?security=reality&encryption=none&pbk=2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=4e249e62#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
 trojan://telegram-id-privatevpns@52.57.221.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
@@ -6,7 +16,6 @@ vless://859b7d71-a9fc-4234-8e03-42eb876a170a@151.115.96.243:7242?encryption=none
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.44.211:2096?encryption=none&security=tls&sni=ca.adobe-connect.top&alpn=channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome&type=ws&host=ca.adobe-connect.top&path=%2F#%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#%20
 vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@37.16.74.19:2053?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ibm.com&fp=chrome&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&sid=4a5b6c7d&type=tcp&headerType=none#%20
-trojan://telegram-id-privatevpns@15.188.253.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 vless://8be9d4c6-83db-42ab-a541-5cb4a6df0ae0@212.233.120.89:9443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&sid=abbcd128#%40v2rayconfigamir%205623
 vless://e01c0af7-f9d0-4ef3-be85-57268c462739@84.201.172.57:443?encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=us7S6PJWZjvTlU_75tgCnnDdWZ83Wdwp44nNvVEWJ2M&sid=cd4fe5335832&spx=%2F#%40v2rayconfigamir%204225
 vless://1f80b24e-bbdf-4959-abca-3808377a37c3@89.23.99.224:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=ios&sni=store.steampowered.com&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&sid=189cfa69#%40v2rayconfigamir%206866
@@ -29,12 +38,3 @@ vmess://eyJhZGQiOiIxMDMuMjI0LjgwLjciLCJhaWQiOjAsImhvc3QiOiJtbjFyYXkuamFnb2Fudmlw
 vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA0NjE2IiwiYWRkIjoiMTAzLjIyNC44MC43IiwicG9ydCI6IjIwODciLCJ0eXBlIjoibm9uZSIsImlkIjoiNDYyZDk2OTQtNjJiNS00NzgxLWEyODctNjFhNDIyYjkyMGU4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92dmlwIiwiaG9zdCI6Im1uMXJheS5qYWdvYW52aXAueHl6IiwidGxzIjoidGxzIn0=
 trojan://ZJU29smXwp@45.85.118.88:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=omid.teama.tk#%40v2rayconfigamir%207638
 vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80?host=tt.andishehparenting.com&path=%2F&security=none&type=ws#@GamingConfigs
-vless://5558156d-3a2c-4843-9eb9-06e69ac3a2bf@f1.hamrahconf.ir:8443?path=%2F&security=tls&encryption=none&insecure=1&host=app-core-01.secoxi.site&type=ws&allowInsecure=1&sni=uiuyoyw.secoxi.site#%40SPARTAN_YT
-vless://20d983ca-d7fa-4fc6-a3db-c6f7e56c4629@188.114.98.0:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=a4.maxriser.ir&fp=chrome&type=ws&allowInsecure=0&sni=a4.maxriser.ir#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
-vless://5ac2d3b6-33cc-4442-9c0b-ae3909cabaae@31.42.190.76:443?path=%2F&security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#@Gangstersdonotcry
-trojan://telegram-id-privatevpns@35.181.222.188:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
-vless://20d983ca-d7fa-4fc6-a3db-c6f7e56c4629@188.114.98.0:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=a4.maxriser.ir&fp=chrome&type=ws&allowInsecure=1&sni=a4.maxriser.ir#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
-vless://9298fb7d-d257-4b52-b9ac-d1fb279e3032@wsss.beepn.info:2087?type=ws&encryption=none&path=%2Fpath&host=Ws2.beepn.info&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=Ws2.beepn.info#Ws-Other
-vless://9298fb7d-d257-4b52-b9ac-d1fb279e3032@wsss.beepn.info:2087?path=%2Fpath&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=Ws2.beepn.info&fp=chrome&type=ws&allowInsecure=0&sni=Ws2.beepn.info#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
-trojan://telegram-id-privatevpns@18.156.11.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?encryption=none&security=tls&sni=ca.adobe-connect.top&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome&type=ws&host=ca.adobe-connect.top&path=%2F#%20
