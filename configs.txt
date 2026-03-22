@@ -1,3 +1,9 @@
+vless://b6337939-de25-41bd-b067-333a15abbd65@snapp.ir:80?type=ws&encryption=none&security=none&path=%2F&host=ar.liarashop.ir#@electvpn0
+trojan://telegram-id-privatevpns@51.45.15.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
+vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@138.124.104.221:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=pol2.frostbot.ru&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&sid=e043995937#%40v2rayconfigamir%205304
+vless://6c49485f-843c-4e96-abfe-046bc473c7b0@45.144.51.22:443?security=reality&encryption=none&pbk=euR8poucesDF-UxANxJ7Uqg1t4cfiDtAzAQcTVhRQCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=140d8b3989bf5116#%40v2rayconfigamir%202362
+vless://f3689c7c-d233-4fdb-b5ee-1bc8a65a637e@pl-waw-1.blook.network:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=q1GJ-cUUd4FGu0ZfsXosBvyzbJmpRHrZYMidWhAqMQI&sid=578dc0c4&sni=pl-waw-1.blook.network&spx=/#%40v2rayconfigamir%209275
+trojan://telegram-id-privatevpns@13.37.68.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@3.73.207.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@86.110.36.91:443?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%40v2rayconfigamir%203876
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.144.77.58:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#%40v2rayconfigamir%207656
@@ -6,8 +12,6 @@ vless://7a0ae662-eee7-44c0-8998-d575870bd749@64.188.106.202:38765?type=tcp&secur
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.195.119.195:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#%40v2rayconfigamir%208779
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201?#%40v2rayconfigamir%204424
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjI2ZDhiYjU5M2E1ZmM1@154.205.154.200:11201?#%40v2rayconfigamir%209546
-vless://b6337939-de25-41bd-b067-333a15abbd65@snapp.ir:80?type=ws&encryption=none&security=none&path=%2F&host=ar.liarashop.ir#@electvpn0
-trojan://telegram-id-privatevpns@51.45.15.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 vless://bf710ad2-4a43-4379-aa73-e684f00b6240@broad-sky-9360.k7uztejf9ief.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=safari&type=ws&allowInsecure=0&sni=broad-sky-9360.k7uztejf9ief.workers.dev#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.178.110.202:2053?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=sni.111000.dynv6.net&sni=sni.111000.dynv6.net&fp=chrome#%40v2rayconfigamir%206637
 vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@93.123.39.218:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=pOdL1l8cGGg7qnOPAbDcAIVOgA7O8f75XevxeYyaYCg&sid=cd11af#%40v2rayconfigamir%206547
@@ -34,7 +38,3 @@ trojan://telegram-id-privatevpns@3.69.114.26:22222?security=tls&alpn=http/1.1&he
 vless://d75fb2d8-9d6d-4981-a3aa-7b4bee5d34f3@185.143.233.120:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.mapircdn.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.mapircdn.com#50GB-v-%20%40unvisible_drops
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.252.21.36:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%40v2rayconfigamir%206364
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.110.115.104:2053?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%40v2rayconfigamir%202238
-vless://6cabb434-f480-478a-9586-a5667167eeb1@91.84.126.28:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=images.apple.com&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&sid=ae#%40v2rayconfigamir%204196
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.105.40:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40app_bedal&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%40v2rayconfigamir%204630
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#%20
-trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=%2Fassignment#%20
