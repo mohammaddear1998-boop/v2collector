@@ -3,6 +3,7 @@ trojan://telegram-id-privatevpns@51.44.127.193:22222?security=tls&alpn=http/1.1&
 vless://841c739c-8cf9-4d0d-919f-3cc924ddfa60@185.143.234.5:443?encryption=none&headerType=none&allowInsecure=0&type=ws&mux=true&security=tls&sni=alef.ir.oadeflantrogm.mapircdn.com&fp=randomized&path=%2F%3Fed%3D443&host=alef.ir.oadeflantrogm.mapircdn.com#50GB
 trojan://telegram-id-privatevpns@3.69.71.108:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
 vless://d2d0f796-edb0-427a-af32-ae360679f9e7@172.66.1.143:443?path=%2F&security=tls&encryption=none&insecure=1&host=rayan-007.foton.dpdns.org&type=ws&allowInsecure=1&sni=rAyAn-007.fOtOn.dPdNs.oRg#``@electvpn0
+trojan://telegram-id-privatevpns@52.47.75.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@18.195.152.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 vless://8585380d-1d74-4b09-a955-5dbf862d13df@185.143.234.5:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.airasiadl.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.airasiadl.com#50GB|02-v2-%20%40unvisible_drops
 vless://d913751b-3ce4-493f-9adb-65bbfc02c991@199.232.242.127:80?type=xhttp&encryption=none&path=%2Fmgvpnir%3Fed%3D2560&host=mgvpniryour-name.global.ssl.fastly.net&mode=auto&security=none#@aloconfig_com
@@ -37,4 +38,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8
 trojan://telegram-id-privatevpns@51.102.254.79:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTZm1Ld25pb29OVmZ6c1pXeGxnUEpY@104.192.227.163:443/?outline=1&prefix=%16%03%01%00%C2%A8%01%01#
 trojan://telegram-id-privatevpns@13.38.248.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
-trojan://telegram-id-privatevpns@15.236.33.201:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
