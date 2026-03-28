@@ -1,7 +1,7 @@
-vless://a914cfb9-52f3-4545-bcbe-96cb4b684a94@al.crunch-crunch.com:11111?encryption=none&type=xhttp&mode=packet-up&path=/new-weels&security=none#v2raygulf
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjI2ZDhiYjU5M2E1ZmM1@154.205.154.200:11201?#%40v2rayconfigamir%206467
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201#%40v2rayconfigamir%208215
+vless://a914cfb9-52f3-4545-bcbe-96cb4b684a94@al.crunch-crunch.com:11111?encryption=none&type=xhttp&mode=packet-up&path=/new-weels&security=none#v2raygulf
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
 vless://eef044ee-21f4-4a8a-80cb-0d2af3df34c3@dl.io-laptop.ir:8443?mode=auto&path=%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl.io-laptop.ir&fp=chrome&type=xhttp&sni=dl.io-laptop.ir#%40Telegram%3A%20%20%40Zero_Tunnel
 vless://c060fdda-385d-aea1-3982-5a6c92876481@85.133.249.43:58387?security=none&encryption=none&host=arvancloud.ir&headerType=http&type=tcp#V2rayng_Saz
 trojan://telegram-id-privatevpns@52.47.80.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
