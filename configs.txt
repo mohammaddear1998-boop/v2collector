@@ -1,4 +1,3 @@
-vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sid=816473be23c2&type=tcp&headerType=none#%40v2rayconfigamir%208823
 trojan://OVsFRZT5jG@172.67.191.189:443?path=%2F&security=tls&host=web.teama.tk&type=ws&sni=web.teama.tk#%40v2rayconfigamir%208514
 trojan://ZJU29smXwp@172.67.191.189:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#%40v2rayconfigamir%203312
 trojan://ZJU29smXwp@172.67.68.87:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=Web2.teama.tk#%40v2rayconfigamir%206687
@@ -6,6 +5,7 @@ trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?encryption=none&security=none&type=ws&path=%2Fhttp#%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443/?outline=1&prefix=%16%03%01%00%C2%A8%01%01#
 trojan://telegram-id-privatevpns@3.120.57.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
+vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sid=816473be23c2&type=tcp&headerType=none#%40v2rayconfigamir%208823
 vmess://eyJwb3J0IjoiMjA1MyIsInYiOiIyIiwidGxzIjoidGxzIiwic2VlZCI6IiIsImFpZCI6IjAiLCJpZCI6ImYyZmUwZDcwLTFjYjEtYWU4NC00NTg1LWVjOTZkNDUwZGE4MCIsInBzIjoiKDIyODY1X2VrZmFzdHZwbinwn4ez8J+HsUBla19mYXN0X3ZwbiIsImF1dGhvcml0eSI6IiIsImFscG4iOiJoMixodHRwXC8xLjEiLCJkZXZpY2VJRCI6IiIsImZyYWdtZW50IjoiIiwidHlwZSI6Im5vbmUiLCJtb2RlIjoiIiwibmV0Ijoid3MiLCJob3N0IjoiaS1sb3ZlLWlyYW4uYW1sYWtheXVuaS5pciIsInNuaSI6ImktbG92ZS1pcmFuLmFtbGFrYXl1bmkuaXIiLCJhZGQiOiJpLWxvdmUtaXJhbi5hbWxha2F5dW5pLmlyIiwiaGVhZGVyVHlwZSI6IiIsInNlcnZpY2VOYW1lIjoibm9uZSIsImV4dHJhIjoiIiwicGF0aCI6Ij9lZD0yMDUzIiwiZnAiOiJyYW5kb21pemVkIn0=@ek_fast_vpn
 vless://7ee0cedb-1f06-4be9-8444-51f289a4bf12@172.64.86.167:80?encryption=none&security=none&type=ws&host=morning-sound-6fa2-ppal03.tinemo7285.workers.dev&path=/?ed=2560#@TeleProxyTele
 vless://7f651de1-8396-4b98-aa75-f818bc68c793@im2.newdesigne.ir:80?path=%2F&security=none&encryption=none&type=ws#%40SPARTAN_YT%F0%9F%87%BA%F0%9F%87%B8
