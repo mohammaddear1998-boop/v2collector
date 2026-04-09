@@ -1,7 +1,9 @@
-vless://6e3046df-37d2-40e2-af24-281ec3a6ec9f@188.114.98.0:443?mode=auto&path=%2FSoonTeam&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=xso.u3er1.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=xso.u3er1.ir#@Evay_vpn
-vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecure=1&host=xqkxw.ccwu.cc&type=ws&allowInsecure=1&sni=xqkxw.ccwu.cc#@Evay_vpn
 vless://675769ee-40d7-4b7e-9bf7-6598ee7c07e7@185.143.233.200:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.iranaircdn.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.iranaircdn.com#50GB%20%7C%2004-v8-%20%40unvisible_drops
 vless://8e00b493-d5a7-499b-a778-8d6cdd67700c@bmi.ir:80?path=%2F&security=none&encryption=none&host=bip-07b3ffd0cc-redo.apps.ir-central1.arvancaas.ir&type=ws#proxymelimon
+vless://f3dc769c-6fca-4103-8d4c-b81692340828@185.143.234.235:8080?path=%2F&security=&encryption=none&host=vip.az99x.info&type=ws#https://t.me/VIP
+vless://f3dc769c-6fca-4103-8d4c-b81692340828@185.143.234.235:8080?path=%2F&security=none&encryption=none&host=vip.az99x.info&type=ws#https://t.me/VIP
+vless://6e3046df-37d2-40e2-af24-281ec3a6ec9f@188.114.98.0:443?mode=auto&path=%2FSoonTeam&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=xso.u3er1.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=xso.u3er1.ir#@Evay_vpn
+vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecure=1&host=xqkxw.ccwu.cc&type=ws&allowInsecure=1&sni=xqkxw.ccwu.cc#@Evay_vpn
 trojan://telegram-id-privatevpns@51.44.87.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 vless://d443ec3d-51d5-4da5-adba-067592be331f@185.143.234.235:80?type=ws&host=vixon.portab.org#proxymelimon
 vless://cc49ff13-bb0d-476e-ae08-41dfd79a9d37@188.114.98.0:80?encryption=none&type=ws&host=cdn2095.dgclix.ir&path=/&security=none#@Evay_vpn
@@ -36,5 +38,3 @@ vless://054b9fdb-4ca8-4b2e-9855-c1515c4937c5@188.114.98.0:443?path=%2F%3Fed%3D20
 trojan://J6aPcSiRDB@188.114.98.0:8443?path=%2F&security=tls&insecure=0&host=login.salar40040.ir&fp=random&type=ws&allowInsecure=0&sni=login.salar40040.ir#@proxymelimon
 vless://6c01d3af-74bd-4a58-b8de-c09c315cf19c@snapp.ir:8080?path=%2F&security=none&encryption=none&host=cm.programming-coding.ir&type=ws#%D9%87%D8%AF%DB%8C%D9%87
 trojan://telegram-id-privatevpns@51.102.234.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
-vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@82.117.255.37:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&type=tcp&headerType=none#%20
-vless://ca05976a-2dea-11f1-9ec5-baabcd4be2cd@81.19.141.96:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=cafe01234567&type=tcp&headerType=none#%20
