@@ -1,6 +1,7 @@
-vless://9fb7a1cc-5f37-483b-a222-69f7b8fd7363@185.143.232.201:80?path=%2Fir&security=none&encryption=none&host=v3.y105.ir&fp=chrome&type=ws#%40ProtoRay
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%40ProtoRay
 vless://b27ac114-eba1-4253-a70e-b2f5ce3abc0c@185.143.234.5:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.realirshop.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.realirshop.com#50GB%20%7C%2004-v7-%20%40unvisible_drops
+vless://b2351deb-7ed8-42c3-94be-aaaeb7fc9fa4@snapp.ir:80?path=%2F&security=none&encryption=none&host=ir1fl2.lowping4.ir&type=ws#Tel%3BFather_vpn
+vless://9fb7a1cc-5f37-483b-a222-69f7b8fd7363@185.143.232.201:80?path=%2Fir&security=none&encryption=none&host=v3.y105.ir&fp=chrome&type=ws#%40ProtoRay
 vless://9fb7a1cc-5f37-483b-a222-69f7b8fd7363@varzesh3.com:80?path=%2Fir&security=none&encryption=none&host=v3.y105.ir&fp=chrome&type=ws#%40ProtoRay
 vless://9fb7a1cc-5f37-483b-a222-69f7b8fd7363@185.143.234.235:80?path=%2Fir&security=none&encryption=none&host=v1.y103.ir&fp=chrome&type=ws#%40ProtoRay
 vless://9fb7a1cc-5f37-483b-a222-69f7b8fd7363@185.143.233.235:80?path=%2Fir&security=none&encryption=none&host=v2.y104.ir&fp=chrome&type=ws#%40ProtoRay
@@ -37,4 +38,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#Me_mogen
 vless://d8803a2b-3a68-4b4e-9763-87d4bf4e1d13@tob1-c8040d1d55-edare.apps.ir-central1.arvancaas.ir:80?path=%2F&security=&encryption=none&host=tob1-c8040d1d55-edare.apps.ir-central1.arvancaas.ir&type=ws#Me_mogen
 vless://4ba9a59a-fd53-4fcd-b206-69ce84abd6f2@verso.legion-bot.site:443?path=%2Fvl%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=verso.legion-bot.site&type=ws&allowInsecure=0&sni=verso.legion-bot.site#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
-vless://c71b2a75-cb1d-452f-b85b-8918c76d5f6a@151.101.192.223:80?mode=auto&path=%2FTignaliSWithYou&security=none&encryption=none&type=xhttp#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
