@@ -1,10 +1,14 @@
-trojan://telegram-id-privatevpns@35.181.252.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@13.36.189.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 vless://af4804b7-a3b4-41c0-8143-822b36479aea@185.143.234.122:80?path=%2F&security=&encryption=none&host=o4.avenflow.ir&type=ws#proxymelimon
 vless://b78808e2-f52f-49ff-bcdf-8bb120f0d71b@de.tehranionliine.ir:80?type=ws&path=%2F&security=none#new
 vless://a84a171f-b228-4f47-adec-c11737df2ed9@185.143.233.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#https://t.me/VIP
 trojan://telegram-id-privatevpns@63.180.162.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
 vless://da70bf4e-da1a-487e-9ebe-5d9e02f8cd73@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#Tel%3B%40Father_vpn%C2%B2
+vless://4b481152-ba7f-4445-8cc0-d33d58546e23@7qqrbome80g.country-27.de-nfast.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&security=reality&sid=50&sni=tradingview.com&type=tcp#
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.218.78.167:443?path=/&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#
+vless://cdcd0159-bb13-4994-bdbb-982d854a72a6@whtk.mooo.com:15521?encryption=none&path=/&security=none&type=ws#
+vless://d1209ffb-c159-48d5-b40d-542ce11fc768@138.124.6.182:10965?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=deepl.com&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&sid=9f3a7c6d2e8b41af#
+trojan://telegram-id-privatevpns@35.181.252.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@3.76.25.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 vless://4419e53d-bfc6-4ff9-885f-9c93090c2734@Arvancloud.ir:2082?path=%2F&security=none&encryption=none&host=Cd.bede-baqbon-bilbezane.store&type=ws#proxymelimon
 vless://f3dc769c-6fca-4103-8d4c-b81692340828@185.143.234.235:8080?path=%2F&security=none&encryption=none&host=vip.az99x.info&type=ws#https://t.me/VIP
@@ -34,7 +38,3 @@ vmess://eyJhZGQiOiJ1c2FhcHAxLmppc3V5dW4udG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6
 vless://9fb7a1cc-5f37-483b-a222-69f7b8fd7363@snapp.ir:80?path=%2Fir&security=none&encryption=none&host=v1.y103.ir&fp=chrome&type=ws#%40ProtoRay
 vless://9fb7a1cc-5f37-483b-a222-69f7b8fd7363@tamin.ir:80?path=%2Fir&security=none&encryption=none&host=v2.y104.ir&fp=chrome&type=ws#%40ProtoRay
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@188.114.98.0:443?path=%2F57.129.47.47%3D2053&security=tls&encryption=none&insecure=1&host=afrcloud07.mmv.kr&type=ws&allowInsecure=1&sni=JoinProxyVPN11.afrcloud07.mmv.kr#%F0%9F%8D%8F%20%40ProxyVPN11
-vless://3f58cc47-94f6-40d3-8797-1ce66cb0555e@188.114.98.0:2087?encryption=none&type=ws&host=nl4.maxriser.ir&path=/?ed%3D2048&security=tls&fp=chrome&sni=nl4.maxriser.ir&alpn=h2,http/1.1#@proxymelimon
-vless://ee6817f6-50fe-4114-b7ff-ce853b144282@45.15.178.203:59999?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&sid=a1b2c3d4&sni=yastatic.net#%40v2rayconfigamir%208844
-vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@45.15.178.124:80?security=none&encryption=none&type=ws&path=/vless/#%40v2rayconfigamir%205109
-vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@pq-BosniaandHerzegovina1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#%40v2rayconfigamir%204485
