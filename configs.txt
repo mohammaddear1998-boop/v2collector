@@ -1,4 +1,3 @@
-vless://fe7c7a0c-ff2e-4ed7-9755-a17add148ece@abr.superip.ir:2086?security=none&allowInsecure=0&encryption=none&type=ws&host=tu.bi6x.ir&path=/API/superip#اختصاصی
 vless://fe7c7a0c-ff2e-4ed7-9755-a17add148ece@abr.superip.ir:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=ne.landing-sours.ir&path=/API/superip#اختصاصی
 vless://fe7c7a0c-ff2e-4ed7-9755-a17add148ece@abr.superip.ir:2086?security=none&allowInsecure=0&encryption=none&type=ws&host=cd2.phill-up.ir&path=/API/superip#اختصاصی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#%20
@@ -13,6 +12,7 @@ vless://0457b106-5d4c-479f-9f88-c2910fd8d430@185.143.234.1:80?path=%2F&security=
 vless://7635ce2e-166b-4984-a7a5-b6843de1f843@185.143.234.200:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.airasiadl.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.airasiadl.com#10GB%20%7C%2004-v9-%20%40unvisible_drops
 vless://57535069-9fc5-49f1-a656-f8ca8421e765@snapp.ir:80?path=%2F&security=none&encryption=none&host=dsfr.parsimas.ir&type=ws#@electvpn0
 vless://f1d697f4-355d-4c3b-a625-06859a6f4d22@haji.nahidapp.com:443?path=%2Fhaji%2F&security=tls&encryption=none&host=haji.nahidapp.com&allowinsecure=0&type=ws&sni=haji.nahidapp.com#@InfoTech_VK
+vless://fe7c7a0c-ff2e-4ed7-9755-a17add148ece@abr.superip.ir:2086?security=none&allowInsecure=0&encryption=none&type=ws&host=tu.bi6x.ir&path=/API/superip#اختصاصی
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%F0%9F%86%94%EF%B8%8F%40filtershekan_channel
 trojan://telegram-id-privatevpns@35.180.106.44:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 vless://fe7c7a0c-ff2e-4ed7-9755-a17add148ece@abr.superip.ir:2082?security=none&allowInsecure=0&encryption=none&type=ws&host=brand.bi6x.ir&path=/API/superip#اختصاصی
