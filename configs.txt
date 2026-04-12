@@ -9,6 +9,8 @@ vless://556d2515-b565-4519-9ad0-9ad6f792b6c1@104.18.12.149:8880?path=%2Fapi&secu
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#%E2%9C%85%20%40ProxyVpn11
 vless://098fd515-29de-4d74-b77d-d8ab878a7e2c@104.18.12.149:443?path=%2Fresgdws&security=tls&encryption=none&insecure=1&host=rivvers.info&type=ws&allowInsecure=1&sni=rivvers.info#%F0%9F%87%A9%F0%9F%87%AA%20%40ProxyVpn11
 trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%87%A8%F0%9F%87%A6%20%20%40ProxyVpn11
+vless://9169a5aa-260d-4d79-b53c-b47bdd2148da@185.143.234.5:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.abrirmahan.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.abrirmahan.com#10GB%20%7C%20v11-%20%40unvisible_drops
+vless://b2bd5bed-2715-4b6c-c920-91a9d13fa707@mmd.az99x.info:8880?path=%2F&security=&encryption=none&type=ws#https%3A%2F%2Ft.me%2FConfigir98
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#%40HamVPN_Config%202%20%D8%B1%D8%A7%DB%8C%D8%AA%D9%84
 trojan://telegram-id-privatevpns@3.121.58.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@13.39.249.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
@@ -36,5 +38,3 @@ vless://e49fb0c1-72bb-406d-9440-ddd8bc01cbe3@omranpanl.pointspeed.ir:80?type=htt
 vless://b23f471d-5f6b-4593-99fe-1535341c9789@185.143.234.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#proxymelimon
 vless://66a8fcc9-5e3b-4220-84fd-a3080abb20d6@snapp.ir:80?path=%2F&security=none&encryption=none&host=ir1tel.lowping4.ir&type=ws#%40ProtoRay
 vless://d789b04a-a47d-4fb0-89c5-63ecaf1d586e@185.143.233.104:8080?type=ws&encryption=none&path=%2Fws&host=hz.deragonconfig.ir&security=none#%40v2rayconfigamir%208719
-vless://3dbef62e-c9e2-483f-bb2a-b748d83a4aab@link2x09387.temp.veraspeed.ir:80?path=%2Ffilimo-video%2F177430809054030600%2F1774365690%2Fcb857b0770767a2b38b3ebc9d4c44d7fc5630fdd%2F196328x264new1-1080p.mp4%2Fs-20-v1-a1.ts&security=none&encryption=none&host=byebye.22.avenflow.ir&type=ws#%40v2rayconfigamir%209573
-vless://3dbef62e-c9e2-483f-bb2a-b748d83a4aab@link2x09387.temp.veraspeed.ir:80?path=%2Ffilimo-video%2F177430809054030600%2F1774365690%2Fcb857b0770767a2b38b3ebc9d4c44d7fc5630fdd%2F196328x264new1-1080p.mp4%2Fs-20-v1-a1.ts&security=none&encryption=none&host=b…#%40v2rayconfigamir%202051
