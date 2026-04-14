@@ -1,3 +1,12 @@
+vless://ab1cd516-40d4-43a4-abbf-1d6f9887c237@104.18.12.149:80?encryption=none&security=none&type=ws&host=pc40.8sm.ir&path=%2Fir#Free%20%40ovpnir
+vless://a56d2e87-b6d6-4e55-a9f1-c7f334c8a7d7@172.64.149.54:80?encryption=none&security=none&type=ws&host=pc01.8sm.ir&path=%2Fir2#Free%20%40ovpnir
+vless://a56d2e87-b6d6-4e55-a9f1-c7f334c8a7d7@104.16.80.73:80?encryption=none&security=none&type=ws&host=pc02.8sm.ir&path=%2Fir2#Free%20%40ovpnir
+vless://a56d2e87-b6d6-4e55-a9f1-c7f334c8a7d7@104.18.16.56:80?encryption=none&security=none&type=ws&host=pc01.8sm.ir&path=%2Fir2#Free%20%40ovpnir
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%40DejavuuVPN
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2096?security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%40DejavuuVPN
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@dnew.cc:443?path=%2F&security=tls&encryption=none&insecure=0&host=2-7fc.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=2-7fc.pages.dev#%E2%9C%85%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
+vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@vpnpro.eshghiabolfazl2009.workers.dev:80?path=%F0%9F%94%92&security=none&encryption=none&host=vpnpro.eshghiabolfazl2009.workers.dev&type=ws#%E2%9C%85%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
+trojan://8r%3C%5B9'l6hAO%238ZQi@Koma-YT.PAGeS.Dev:2096?security=tls&sni=Koma-YT.PAGeS.Dev&fp=chrome&allowInsecure=0&type=ws&path=/tr#@neet_done
 trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#TEL%3A%40Father_VPN%C2%B9
 vless://ab1bf57b-0644-4994-971b-ac585a851809@link2x06473.temp.veraspeed.ir:80?path=%2Ffilimo-video%2F177430809054030600%2F1774365690%2Fcb857b0770767a2b38b3ebc9d4c44d7fc5630fdd%2F196328x264new1-1080p.mp4%2Fs-20-v1-a1.ts&security=none&encryption=none&host=byebye.22.avenflow.ir&type=ws#@ehsawn8
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%20
@@ -29,12 +38,3 @@ trojan://PSMFD1nJgID-f4Z9yntv9rIwW_pdF_GE@aiowufhitest.kamalnet-new.com:443?path
 ss://bd2c7638-7f66-4fd0-8ca5-9c78cb4c3603@amvip.q2k.ir:80?path=%2F&security=&encryption=none&host=Amvip.yooring.ir&type=ws#%40V2ray_confiig
 trojan://telegram-id-privatevpns@3.64.136.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.18.12.149:443?path=%2F&security=tls&encryption=none&host=y6-3cj.PAgES.DEV&type=ws&sni=y6-3cj.PAgES.DEV#%F0%9F%86%94%EF%B8%8F%40filtershekan_channel
-vless://2cb978f2-772b-47a3-8399-c7ca12ff281c@snapp.ir:80?encryption=none&security=none&type=ws&host=c.hshonar.ir&path=%2F#@saministamm
-vless://2cb978f2-772b-47a3-8399-c7ca12ff281c@snapp.ir:80?encryption=none&security=none&type=ws&host=c.hshonar.ir&path=@ICV2RAY#@saministamm
-vless://09b2d3cc-551a-4e4f-a816-671ea55f9278@snapp.ir:80?type=ws&encryption=none&path=%2F&host=n1.abantrust.ir&security=none#@saministamm
-trojan://J6aPcSiRDB@188.114.98.0:8443?path=%2F&security=tls&insecure=0&host=login.salar40040.ir&fp=random&type=ws&allowInsecure=0&sni=login.salar40040.ir#@saministamm
-vless://a01daac7-1e65-4645-854d-b47d226f6b08@104.18.12.149:443?path=%2F&security=tls&encryption=none&insecure=0&host=y6-3cj.PAgES.DEV&type=ws&allowInsecure=0&sni=y6-3cj.PAgES.DEV#@InfoTech_VK1
-trojan://ksPfyOHM2lS5g4__J8HrpWG6blPBIQTX@104.18.16.56:443?path=%2Fapi%2Fv1%2Fflights%2Fdest-de%2Fprice-stream&security=tls&alpn=http%2F1.1&host=www.comoiran.ir&fp=chrome&type=ws&sni=www.comoiran.ir#@InfoTech_VK
-trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%87%A8%F0%9F%87%A6%20%20%40ProxyVpn11
-vless://9169a5aa-260d-4d79-b53c-b47bdd2148da@185.143.234.5:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.abrirmahan.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.abrirmahan.com#10GB%20%7C%20v11-%20%40unvisible_drops
-vless://b2bd5bed-2715-4b6c-c920-91a9d13fa707@mmd.az99x.info:8880?path=%2F&security=&encryption=none&type=ws#https%3A%2F%2Ft.me%2FConfigir98
