@@ -6,6 +6,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=%2F%3Fed%3D2
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.24.59:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#
 trojan://telegram-id-privatevpns@51.44.188.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 vless://c0cac14f-9702-46c2-985f-f5d3b24b456d@s2.xbat.ir:80?path=%2F&security=none&encryption=none&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
+vless://9a73c3b2-d483-42f7-8bd4-bd6e3dc5a5ec@185.143.234.235:8080?path=%2F&security=none&encryption=none&host=ire.binping.lol&type=ws#@electvpn0
 vless://529ad031-70ae-4352-bf3d-19297d35190b@clud.soonteam.top:443?security=tls&encryption=none&insecure=0&host=mioptp.miomio.cloud&type=ws&allowInsecure=0&sni=mioptp.miomio.cloud#@InfoTech_VK15
 vless://733a9a09-ba93-4e73-b1f3-ae0bcbd88310@clud.soonteam.top:443?security=tls&encryption=none&insecure=0&host=noisy-paper.workers.dev&type=ws&allowInsecure=0&sni=noisy-paper.workers.dev#@InfoTech_VK16
 vless://4dc0b42a-1a8a-4337-851b-5d8a1f149fca@clud.soonteam.top:8443?security=tls&encryption=none&insecure=0&host=kingman.turboo-server.com.co&type=ws&allowInsecure=0&sni=kingman.turboo-server.com.co#@InfoTech_VK17
@@ -37,4 +38,3 @@ vless://4ac14936-3d80-4f37-892f-3a26d7d35286@8.6.112.6:80?path=%2FTelegram%40Soo
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@8.6.112.0:80?path=%2F%20%40ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#proxymelimon
 trojan://humanity@8.6.112.0:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=%2Fassignment#proxymelimon
 vless://94dd9065-5542-44fb-8c28-10c55c9dbfe8@snapp.ir:2086?path=%2F&security=none&encryption=none&host=beraghsaontop.netcura.ir&type=ws#telegram%3A%20%40hupivpn
-vless://ecf56add-3b4a-4724-bb6c-9cc5721d09b0@185.143.233.5:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.realirshop.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.realirshop.com#10GB%20%7C%2004-v12-%20%40unvisible_drops
