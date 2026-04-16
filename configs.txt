@@ -3,6 +3,7 @@ vless://c0cac14f-9702-46c2-985f-f5d3b24b456d@s2.xbat.ir:80?path=%2F&security=non
 vless://9a73c3b2-d483-42f7-8bd4-bd6e3dc5a5ec@185.143.234.235:8080?path=%2F&security=none&encryption=none&host=ire.binping.lol&type=ws#@electvpn0
 vless://c0cac14f-9702-46c2-985f-f5d3b24b456d@s2.xbat.ir:80?path=%2F&security=&encryption=none&type=ws#@InfoTech_VK1
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@8.6.112.6:443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.31%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#@archivetell
+trojan://8r%3C%5B9%27l6hAO%238ZQi@8.6.112.0:2096?path=%2Ftr&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev#%40filtershekan_channel
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.24.59:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.0:8443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#proxymelimon
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#
@@ -37,4 +38,3 @@ vless://Telegram-Parsashonam@8.6.112.0:443?path=%2F&security=tls&encryption=none
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:8443?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#xsparvin
 vless://Telegram-Parsashonam@8.6.112.6:443?path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=ws&allowInsecure=0&sni=test.atlasw.ir#%40Parsashonam-17%3A34-2
 vless://4ac14936-3d80-4f37-892f-3a26d7d35286@8.6.112.6:80?path=%2FTelegram%40SoonTeam%2CTelegram%40SoonTeam%2CTelegram%40SoonTeam%2CTelegram%40SoonTeam%2CTelegram%40SoonTeam&security=none&encryption=none&host=xca.soonteam.top.&type=ws#@InfoTech_VK3
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@8.6.112.0:80?path=%2F%20%40ProxyVPN11&security=none&encryption=none&host=vip.yaml7.ggff.net&type=ws#proxymelimon
