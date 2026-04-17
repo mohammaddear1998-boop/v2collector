@@ -2,6 +2,8 @@ trojan://trojan@103.136.70.115:443?path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FW
 vless://d69dc89a-ced5-4920-8d51-439cac0ccdcd@snapp.ir:80?encryption=none&type=ws&path=%2F&host=onion-p3.yeksantech.ir&allowInsecure=1#@InfoTech_VK11
 vless://d69dc89a-ced5-4920-8d51-439cac0ccdcd@snapp.ir:80?path=%2F&security=none&encryption=none&host=onion-p3.yeksantech.ir&type=ws#%40filtershekan_channel
 vless://af4213f4-e6ab-4d03-b6ee-3ab6fc3c85bc@185.143.233.5:443?path=%2Fgraphql%3Fed%3D30&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl3nc.smartnetworktools.ir&fp=firefox&type=ws&sni=dl3nc.smartnetworktools.ir#%40filtershekan_channel
+vless://af4213f4-e6ab-4d03-b6ee-3ab6fc3c85bc@185.143.233.5:443?encryption=none&type=ws&security=tls&path=%2Fgraphql%3Fed%3D30&host=dl3nc.smartnetworktools.ir&sni=dl3nc.smartnetworktools.ir&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=1#@InfoTech_VK14
+vless://42026dab-fe60-4155-8edb-a917ee5e7dee@link2x11580.temp.veraspeed.ir:80?path=%2Ffilimo-video%2F177430809054030600%2F1774365690%2Fcb857b0770767a2b38b3ebc9d4c44d7fc5630fdd%2F196328x264new1-1080p.mp4%2Fs-20-v1-a1.ts&security=none&encryption=none&host=byebye.22.avenflow.ir&type=ws#%40`proxy_kafee
 trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#Tel%3BFather_vpn
 vless://Telegram-Parsashonam@8.6.112.0:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&sni=test.atlasw.ir#%40Parsashonam-1
 vless://Telegram-Parsashonam@8.6.112.6:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&sni=test.atlasw.ir#%40Parsashonam-2
@@ -36,5 +38,3 @@ vless://d37a75db-76b6-4db8-b213-0d5b044d138d@8.6.112.0:443?path=%2F&security=tls
 vless://06c27e62-b54b-4e31-ab09-69054f6b4be7@snapp.ir:8880?path=%2F&security=none&encryption=none&host=v.zpnz.ir&type=ws#%40proxymelimon
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%40NETMelliAnti
 vless://a16e9398-733a-450e-9a7f-7711ef24e2bf@tamin.ir:2052?path=%2F&security=none&encryption=none&host=tt.sedighi0915.ir&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
-vless://e63d1540-ffb7-447d-b9db-df9968c88a0c@varzesh3.com:2086?path=%2FApiFeVxhc4mfT9SsRkRmAhJAxIV%3Fed%3D2560&security=none&encryption=none&host=morfix.donyayeajayeb.ir&type=ws#%DA%86%D9%86%D9%84+%D8%B9%D8%B6%D9%88+%D8%B4%D9%88+%40proxymelimon
-vless://1cd5fa1a-fae9-45a3-a4b8-2bc636ec0952@185.143.234.200:80?mode=auto&path=%2Fw0A7arFCWfh1n07bLCPY2sRPzhX533AaYjLN3dxdP6R4zqg4VBCbbAHV49zjRZ2wBNooXj1s1PzkVhLL9h1gdLbpU5oPiC68mu8r&security=none&encryption=none&type=xhttp#%40filtershekan_channel
