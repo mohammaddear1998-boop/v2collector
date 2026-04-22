@@ -1,3 +1,13 @@
+vless://cac8642d-4e02-4d7c-9125-a8814e78a67b@snapp.ir:80?encryption=none&type=ws&path=%2F&host=sphrrzv.iranofilm.ir#proxymelimon
+vless://c9fad6b5-c353-4dae-a753-5bf1b9da65e2@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=fn.8lack.ir&fp=firefox&type=ws&sni=fn.8lack.ir#%40filtershekan_channel
+vless://802ed98e-39a1-41f5-a721-4c1aeec986a5@185.143.233.120:443?path=%2F%3Fed%3D443&security=tls&encryption=none&host=alef.ir.oadeflantrogm.iranaircdn.com&fp=randomized&type=ws&sni=alef.ir.oadeflantrogm.iranaircdn.com#%40filtershekan_channel
+vless://8b157d0b-7fff-47bc-bff8-fa84ec3fc768@varzesh3.com:80?path=%2F&security=none&encryption=none&host=jd.knet-prime.ir&type=ws#Tel%3BFather_vpn%C2%B2
+vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?path=%2F&security=tls&encryption=none&insecure=0&host=sub.mot.ip-ddns.com&fp=chrome&type=ws&allowInsecure=0&sni=sub.mot.ip-ddns.com#Tel%3BFather_vpn%C2%B3
+vless://77534396-dead-4a6c-8761-03939cd4fdc8@172.64.149.54:443?path=%2F&security=tls&encryption=none&insecure=1&host=my.vulmart.ir&type=ws&allowInsecure=1&sni=my.vulmart.ir#Tel%3BFather_vpn%E2%81%B4
+vless://802ed98e-39a1-41f5-a721-4c1aeec986a5@185.143.233.120:443?path=%2F%3Fed%3D443&security=tls&encryption=none&insecure=0&host=alef.ir.oadeflantrogm.iranaircdn.com&fp=randomized&type=ws&allowInsecure=0&sni=alef.ir.oadeflantrogm.iranaircdn.com#Tel%3BFather_vpn%E2%81%B5
+trojan://telegram-id-privatevpns@15.224.52.213:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
+vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?security=&encryption=none&host=vixon.portab.org&type=ws#`@ehsawn8
+vless://4a86f341-72e3-4d3a-91c0-47d4385f6a0e@link-dl.mizbanertebatfarda.ir:2095?path=%2F&security=none&encryption=none&host=link-dl.mizbanertebatfarda.ir&type=ws#%40filtershekan_channel
 vless://Telegram-Parsashonam@dash.cloudflare.com:443?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=test.atlasw.ir&type=xhttp&allowInsecure=0&sni=test.atlasw.ir#@Parsashonam-00:44
 vless://22109ab6-bfdd-4062-ae1c-054c74353e39@185.143.233.235:80?security=none&encryption=none&host=vixon.portab.org&type=ws#Tel%3BFather_vpn
 vless://1fd747a6-cbfa-496b-879e-056ccd60bf79@verso.nahidapp.com:443?path=%2Fvl%2F&security=tls&alpn=http%2F1.1&encryption=none&host=verso.nahidapp.com&type=ws&sni=verso.nahidapp.com#nahid-vless%20%28w824789487_1776810132%29
@@ -28,13 +38,3 @@ trojan://1234567890@64.188.97.153:443?security=tls&sni=kfm-bn0.pages.dev&insecur
 vless://fc835978-8121-414f-b3dd-2dc2ec56b8f7@192.142.37.191:4356?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#%40v2rayconfigamir%208616
 trojan://telegram-id-privatevpns@13.39.164.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 vless://e4520a3d-c017-4cb1-90d3-2d3b0aeca4ae@snapp.ir:80?path=%2F&security=none&encryption=none&host=sv2-dl.persianmusics.site&type=ws#@aloconfig_com
-vless://ce871f8f-5f02-435b-b1db-e0739969aa02@api1.iramsmartkeyka.ir:2095?path=%2FwsVMarketLoad&security=none&encryption=none&type=ws#%40filtershekan_channel
-vless://6ec3c40c-d02e-4c2c-6c00-265575739a38@meli.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.198#%40filtershekan_channel
-trojan://telegram-id-privatevpns@13.36.75.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
-vless://fa1edd99-86b6-4a6f-9745-c476c59c0568@snapp.ir:2082?path=%2F&security=none&encryption=none&host=dl800tobi.sudoserver.ir&type=ws#Tel%3BFather_vpn
-trojan://telegram-id-privatevpns@18.194.103.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
-trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&security=tls&host=Koma-YT.PAGeS.Dev&type=ws&sni=Koma-YT.PAGeS.Dev#%40filtershekan_channel
-vless://1ba68295-bc56-4af3-929b-255426db2312@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&security=none&alpn=http%2F1.1&encryption=none&host=s2.limitless-cloud.ir&fp=chrome&type=ws&sni=s2.limitless-cloud.ir#%40proxymelimon
-vless://64a7af8d-1e48-42d9-ae5b-73b012356c0d@snapp.ir:80?type=ws&encryption=none&security=none&sni=s3.limitless-cloud.ir&alpn=http%2F1.1&fp=chrome&path=%2Fgraphql%3Fed%3D2560&host=s3.limitless-cloud.ir
-vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@vpnpro.eshghiabolfazl2009.workers.dev:80?path=%F0%9F%94%92&security=none&encryption=none&host=vpnpro.eshghiabolfazl2009.workers.dev&type=ws#@InfoTech_VK6
-vless://9f1d913e-837f-45b3-bda3-cd4ebfffd3be@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cn.8lack.ir&fp=firefox&type=ws&sni=cn.8lack.ir#%40filtershekan_channel
