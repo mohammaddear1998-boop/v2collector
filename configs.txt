@@ -8,6 +8,8 @@ vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?encryption=no
 vmess://eyJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjNoLWthemFraHN0YW4xLjA5dnBuLmNvbSIsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA2NTY4Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 trojan://opentunnel.net-usa30day@15.204.9.172:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#%40v2rayconfigamir%203900
 trojan://opentunnel.net-english30day@54.37.18.204:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#%40v2rayconfigamir%201033
+vless://3c852590-49d8-d3c3-abbf-a3c64ad89cd2@tr.tehranionliine.ir:80?encryption=none&type=ws&path=%2F#@electvpn0
+vless://64d32972-e9c0-4f87-b541-28495bf0f137@snapp.ir:80?path=%2FFIRELINK&security=none&encryption=none&host=firelink.arian-go-internet.ir&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@dkstatics-public.digikala.com:443#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 vless://a2772ce5-647f-4967-835a-135ed9701422@185.143.234.235:80?path=%2F&security=none&encryption=none&host=vixon.portab.org&type=ws#Tel%3BFather_vpn
 vless://c7201267-8439-4ba6-8c41-fc0ecd5472b3@mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir:443?path=%2Fvless&security=tls&encryption=none&insecure=0&host=mochi-d1bdb57cd7-kalak.apps.ir-central1.arvancaas.ir&type=ws&allowInsecure=0#@ehsawn8
@@ -36,5 +38,3 @@ vless://cac8642d-4e02-4d7c-9125-a8814e78a67b@snapp.ir:80?encryption=none&type=ws
 vless://c9fad6b5-c353-4dae-a753-5bf1b9da65e2@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=fn.8lack.ir&fp=firefox&type=ws&sni=fn.8lack.ir#%40filtershekan_channel
 vless://802ed98e-39a1-41f5-a721-4c1aeec986a5@185.143.233.120:443?path=%2F%3Fed%3D443&security=tls&encryption=none&host=alef.ir.oadeflantrogm.iranaircdn.com&fp=randomized&type=ws&sni=alef.ir.oadeflantrogm.iranaircdn.com#%40filtershekan_channel
 vless://8b157d0b-7fff-47bc-bff8-fa84ec3fc768@varzesh3.com:80?path=%2F&security=none&encryption=none&host=jd.knet-prime.ir&type=ws#Tel%3BFather_vpn%C2%B2
-vless://00000000-0000-4000-8000-000000000000@185.94.29.156:4001?path=%2F&security=tls&encryption=none&insecure=0&host=sub.mot.ip-ddns.com&fp=chrome&type=ws&allowInsecure=0&sni=sub.mot.ip-ddns.com#Tel%3BFather_vpn%C2%B3
-vless://77534396-dead-4a6c-8761-03939cd4fdc8@172.64.149.54:443?path=%2F&security=tls&encryption=none&insecure=1&host=my.vulmart.ir&type=ws&allowInsecure=1&sni=my.vulmart.ir#Tel%3BFather_vpn%E2%81%B4
