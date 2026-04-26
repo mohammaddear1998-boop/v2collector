@@ -1,5 +1,3 @@
-vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?mode=packet-up&path=%2F&security=tls&encryption=none&alpn=h2&host=grand-short-auto-shahriar.vercel.app&fp=chrome&type=xhttp&sni=vercel.com#Grand+Master-Parch
-vless://b31e7244-28fd-4975-b534-d1cecd7fc8cd@185.143.233.200:80?path=%2F&security=none&encryption=none&host=refer.parsimas.ir&type=ws#TEL%3BFather_vpn
 vless://a3b1d134-e3d8-45ab-9996-a3800be0fcdc@185.143.234.235:8080/?type=ws&encryption=none&host=vip.az99x.info&path=%2F#@ehsawn8
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#TEL%3BFather_vpn
 trojan://telegram-id-privatevpns@13.36.179.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
@@ -10,6 +8,10 @@ vless://2bafc823-a8ff-429c-9e64-bcde2a1daa2d@vercel.com:443?encryption=none&secu
 vless://acf4f392-fa79-4746-af36-93a8d20ee3ea@snapp.ir:8080?type=ws&encryption=none&path=%2F&host=kootahkon.ir&security=ct#
 vless://1f141296-8772-63ea-8a3d-0b61a0ea55b2@snapp.ir:2052?path=%2F%3Fed&security=none&encryption=none&host=bot.zahedimobile.ir&type=ws#%40
 vless://ef27ea8f-b3fc-4b41-83a3-0d52e25eabaf@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=bn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=bn.8lack.ir#%40vipconfingg%20%2339%20%E2%98%86%E2%99%A1%20%D8%AD%D8%AA%D9%85%D8%A7%20%D8%A8%D8%A7%20%D8%B3%D8%A7%DB%8C%D9%81%D9%88%D9%86%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%20%DA%A9%D9%86%DB%8C%D8%AF%21%20%E2%98%86%E2%99%A1%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88
+vmess://ewogICJhZGQiOiAic25hcHAuaXIiLAogICJob3N0IjogImRhcnhoaW50ZWFtLmJyYXZvLXNpeC5pciIsCiAgImlkIjogImZlMjQ5OWMyLTM0OGEtNDYyZC1iZTQyLThmNzA3MDMxYzQwNiIsCiAgIm5ldCI6ICJ3cyIsCiAgInBhdGgiOiAiLyIsCiAgInBvcnQiOiA4MCwKICAicHMiOiAiQERhcnhoaW52MnJheS1SZXdhcmRzLXU4NTY2ODM5X2YzNGItNzAuMDBNQvCfk4otMjNI4o+zIiwKICAic2N5IjogIiIsCiAgInRscyI6ICJub25lIiwKICAidHlwZSI6ICJub25lIiwKICAidiI6ICIyIgp9
+vless://telegram-dickiriptorbot@vercel.com:443?mode=auto&path=%2F%40dickiriptorbot&security=tls&encryption=none&insecure=0&host=project-h7l2a.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=vercel.com#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
+vless://c0899a53-cc3b-4066-a3b4-d6d07b4853ee@vercel.com:443?mode=packet-up&path=%2F&security=tls&encryption=none&alpn=h2&host=grand-short-auto-shahriar.vercel.app&fp=chrome&type=xhttp&sni=vercel.com#Grand+Master-Parch
+vless://b31e7244-28fd-4975-b534-d1cecd7fc8cd@185.143.233.200:80?path=%2F&security=none&encryption=none&host=refer.parsimas.ir&type=ws#TEL%3BFather_vpn
 vless://5eaef112-cdc1-4438-a2ea-6f1ae9694d18@isna.ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=cardinal.gelvil.ir&type=ws#%40v2rayRoom
 vless://8703c844-375d-4d1f-9221-b5d1fc17869a@snapp.ir:80?path=%2F&security=none&encryption=none&host=cpi.lithiumnet.ir&type=ws#%40V2rayRoom
 trojan://telegram-id-privatevpns@13.38.232.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
@@ -36,5 +38,3 @@ vless://ff6d6f8e-79f2-441e-ac39-bc3406f86e5c@khan10.tarfandgallery.sbs:443?path=
 vless://c334010c-b5eb-4d80-bc93-9d7b52b03e6e@varzesh3.com:8080?path=%2F&security=none&encryption=none&host=pt.novatechplus.ir&type=ws#%40filtershekan_channel
 vless://fed07182-fa9e-490b-ac15-2f64e1ee21ab@anten.ir:80?path=%2F&security=none&encryption=none&host=ss.linuwebtunnel.site&type=ws#%40filtershekan_channel
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.13.149:2053?security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#%40filtershekan_channel
-vless://ca683ff2-5d4b-4d3a-8802-a3f790801604@185.143.233.235:80?security=none&encryption=none&host=d.nsa03.com&type=ws#%40filtershekan_channel
-vless://d688e1f5-eaf1-4f9f-b976-5584c16ed988@Snapp.ir:80?encryption=none&type=ws&path=/#@ehsawn8
