@@ -1,4 +1,3 @@
-trojan://telegram-id-privatevpns@63.183.130.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@13.38.248.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 vless://4f46b0b7-d44e-404d-aae0-b878c3f6b787@nextjs.org:443?mode=auto&path=%2Fzyphervpnsalle&security=tls&encryption=none&insecure=0&host=vercel-xhttp-beta-flame.vercel.app&type=xhttp&allowInsecure=0&sni=nextjs.org#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 vless://d9bbd33c-8343-9a92-4f8d-11b628fbf2a5@pari.masterdadeh.ir:80?encryption=none&type=ws&path=%2F#@electvpn0
@@ -9,6 +8,7 @@ vless://053c003d-6233-4fd5-b1b7-8bd1d34fe519@185.143.234.235:80?path=%2F&securit
 vmess://eyJhdXRob3JpdHkiOiIiLCJ2IjoiMiIsImhlYWRlclR5cGUiOiIiLCJzZXJ2aWNlTmFtZSI6Im5vbmUiLCJleHRyYSI6IiIsIm1vZGUiOiIiLCJob3N0IjoicnhzLmJyYXZvLXNpeC5pciIsInNlZWQiOiIiLCJkZXZpY2VJRCI6IiIsImZwIjoiIiwidGxzIjoibm9uZSIsInBzIjoiQHYycmF5X2NvbmZpaWlnIiwiZnJhZ21lbnQiOiIiLCJ0eXBlIjoibm9uZSIsImlkIjoiZGQ4NDIxNDctOTFhOC00ZTE4LWEzYmMtNWNhNTg3ZjA1NDM4IiwiYWRkIjoic25hcHAuaXIiLCJzbmkiOiIiLCJhbHBuIjoiIiwicG9ydCI6IjgwODAiLCJwYXRoIjoiXC8iLCJuZXQiOiJ3cyIsImFpZCI6IjAifQ==
 vless://7d96ea7b-3ebd-4280-841c-51c3d6c210d6@nextjs.org:443?security=tls&allowInsecure=0&encryption=none&type=xhttp&path=/xhttp&sni=nextjs.org&fp=chrome&mode=auto#@v2ray_confiiig
 vless://67795b82-b8fa-4f48-bd0a-77dbdb137eee@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=gn.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=gn.8lack.ir#%40powerro
+trojan://telegram-id-privatevpns@63.183.130.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
 vless://f286118f-fce9-4cd6-85ce-5832180f2a66@snapp.ir:8080?path=%2F&security=none&encryption=none&host=kootahkon.ir&type=ws#TEL%3BFather_vpn
 vless://217242f1-cd3d-4afd-b109-b2bf1cd5b741@orixcraft.ir:2095?path=%2F&security=none&encryption=none&type=ws#TEL%3BFather_vpn
 vless://65462646-6d80-4463-b47b-3529e531ab65@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#@electvpn0
