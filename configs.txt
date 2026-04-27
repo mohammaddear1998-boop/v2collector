@@ -1,4 +1,3 @@
-vless://1935cc85-8ab0-4382-f0fc-d691e5ddbb53@185.143.235.200:80?path=%2F%DB%B6&security=none&encryption=none&host=my.zivorae.ir&type=ws#%40filtershekan_channel
 vless://3ff87a9a-305d-4723-9c9e-88b8a7796d41@blubank.sb24.ir:8080?security=none&encryption=none&host=networkex.onyxshoes.ir&type=ws#%40filtershekan_channel
 trojan://telegram-id-privatevpns@3.75.35.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 vless://f0ac3bab-a26b-403b-9948-a999d7f4a92a@vercel.com:443?mode=auto&path=%2Ftt&security=tls&encryption=none&host=heydari.vercel.app&type=xhttp&sni=vercel.com#%40V2rayRoom
@@ -11,6 +10,10 @@ vless://8014017f-3f40-46e9-b02d-87e6c54d877e@185.143.233.5:443?path=%2Fchat%3Fed
 trojan://telegram-id-privatevpns@15.236.1.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 vless://53a26616-e6cc-4a89-84fc-6da466f16720@khan13.tarfandgallery.sbs:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=khan13.tarfandgallery.sbs#https%3A%2F%2Ft.me%2Fnpv_tunnels
 vless://95051aa9-b4a0-4344-9c8f-a40e1ffcc4f7@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=cn.8lack.ir&fp=firefox&type=ws&sni=cn.8lack.ir#%40filtershekan_channel
+vless://Parsashonam@nextjs.org:443?mode=auto&path=%2Fp4r34m&security=tls&encryption=none&insecure=0&host=YOUR_SUB_DOMAIN&type=xhttp&allowInsecure=0&sni=nextjs.org#@Parsashonam
+vless://f286118f-fce9-4cd6-85ce-5832180f2a66@snapp.ir:8080?path=%2F&security=none&encryption=none&host=kootahkon.ir&type=ws#TEL%3BFather_vpn
+vless://217242f1-cd3d-4afd-b109-b2bf1cd5b741@orixcraft.ir:2095?path=%2F&security=none&encryption=none&type=ws#TEL%3BFather_vpn
+vless://1935cc85-8ab0-4382-f0fc-d691e5ddbb53@185.143.235.200:80?path=%2F%DB%B6&security=none&encryption=none&host=my.zivorae.ir&type=ws#%40filtershekan_channel
 vless://441239f9-3017-4ab3-b123-23eeaa48133b@104.20.6.134:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=cdn.hosseincapri.sbs&path=/ws&sni=cdn.hosseincapri.sbs&fp=chrome#eror404
 trojan://telegram-id-privatevpns@13.39.77.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 trojan://8r%3C%5B9%27l6hAO%238ZQi@104.20.6.134:2096?path=%2Ftr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#TEL%3AFather_vpn
@@ -35,6 +38,3 @@ vless://a3b1d134-e3d8-45ab-9996-a3800be0fcdc@185.143.234.235:8080/?type=ws&encry
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#TEL%3BFather_vpn
 trojan://telegram-id-privatevpns@13.36.179.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 vless://a3b1d134-e3d8-45ab-9996-a3800be0fcdc@185.143.234.235:8080?path=%2F&security=none&encryption=none&host=vip.az99x.info&type=ws#%40appsooner%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%F0%9F%95%8A%EF%B8%8F
-vless://eaae7973-cef2-0e01-e597-b7f5392a69f5@meli3.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.200#%40filtershekan_channel
-vless://bebd2f87-d823-4916-86d1-4672d781f004@useredge1.noroozmobarak.com:8080?path=%2Fweb-panel2&security=none&encryption=none&host=my.ozvinoo.ir&type=ws#%40filtershekan_channel
-vless://2bafc823-a8ff-429c-9e64-bcde2a1daa2d@vercel.com:443?encryption=none&security=tls&sni=vercel.com&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=vercel-xhttp-relay-plum-psi.vercel.app&path=%2Fsaefe&mode=auto#free%204GIG
