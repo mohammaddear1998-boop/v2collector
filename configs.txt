@@ -9,6 +9,8 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIiIsDQogICJhZGQiOiAiMzUuMjEyLjE3Ny42NyIs
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIiIsDQogICJhZGQiOiAiMzUuMjEyLjE3Ny42NyIsDQogICJwb3J0IjogIjQwMDI5IiwNCiAgImlkIjogImU4YWIzN2M3LTJiMWQtNDc3Ni1jMDYyLTJjYWM4ZmMwNjZlMSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiY2hyb21lIg0KfQ==
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIiIsDQogICJhZGQiOiAiNjcuMjIwLjcyLjIzNyIsDQogICJwb3J0IjogIjIyMzI0IiwNCiAgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsDQogICJhaWQiOiAiMSIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 trojan://telegram-id-privatevpns@3.123.242.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
+trojan://telegram-id-privatevpns@13.38.179.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
+vless://c59834b1-ec3d-4682-8580-861a400235bd@185.143.234.235:80?security=&encryption=none&host=d.nsa03.com&type=ws#%40NetZone_ir
 vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip1-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&security=none&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#%40v2rayconfigamir%201635
 vless://85df0ad4-8818-4aa5-9799-4bb7232de9e0@ip3-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&security=none&encryption=none&host=tamamde1.global.ssl.fastly.net&type=ws#%40v2rayconfigamir%201055
 vless://305e23a9-2fcc-4810-bb23-2ac36148ffff@snapp.ir:80?type=ws&encryption=none&security=none&sni=ss3.limitless-cloud.ir&alpn=http%2F1.1&fp=chrome&path=%2Fgraphql%3Fed%3D2560&host=ss3.limitless-cloud.ir#@electvpn0
@@ -36,5 +38,3 @@ trojan://telegram-id-privatevpns@63.183.130.255:22222?security=tls&alpn=http/1.1
 vless://f286118f-fce9-4cd6-85ce-5832180f2a66@snapp.ir:8080?path=%2F&security=none&encryption=none&host=kootahkon.ir&type=ws#TEL%3BFather_vpn
 vless://217242f1-cd3d-4afd-b109-b2bf1cd5b741@orixcraft.ir:2095?path=%2F&security=none&encryption=none&type=ws#TEL%3BFather_vpn
 vless://65462646-6d80-4463-b47b-3529e531ab65@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#@electvpn0
-vless://4be80655-e439-49d1-9560-d69a46297063@185.143.233.5:80?encryption=none&type=ws&path=%2Fgamescore%3Fed%3D128&host=cdn4.restaurantworld.ir#@electvpn0
-trojan://telegram-id-privatevpns@15.224.77.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
