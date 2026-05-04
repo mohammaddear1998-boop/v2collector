@@ -6,6 +6,7 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.227.174.213:2053?path=%2F%3Fed%3
 vless://106d20f6-d70a-40e2-b69b-8e82baf8d117@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=60500a63ad12&sni=www.microsoft.com#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.76.104:46000?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=/?ed=2560&Telegram#
+trojan://telegram-id-privatevpns@18.185.147.254:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 vless://697b47d0-02bc-4739-bb70-8c7b1da50a1c@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%40internet_azad_2026%F0%9F%A9%B5
 vless://73805cfb-4535-4797-9ad4-9e13c8dd5b3d@Ikco.ir:8080?path=%2Fcdn&security=&encryption=none&host=cp.movizdl.ir&type=ws#%40iProxyChannel%201
 vless://469b6631-f0ab-4ad7-93af-869dd32535e3@president.ir:80?path=%2F&security=&encryption=none&host=al1.apicallminecrafegame.online&type=ws#%40iProxyChannel%202
@@ -37,4 +38,3 @@ vless://ac620fe6-eb1a-4f28-89c0-1e9f5d8edfb9@cf3.comecloud.ir:443?path=%2Ftest%3
 vless://dabf84d3-95b5-4c56-847b-654009175a83@varzesh3.com:8080?path=%2F&security=none&encryption=none&host=ma.nexoratechcenter.ir&type=ws#TEL%3BFather_vpn
 vless://2c3a3169-784f-4fde-8301-c1b4a0dcd738@snapp.ir:80?path=%2F&security=none&encryption=none&host=movie.slmastractor.ir&type=ws#TEL%3BFather_vpn
 vless://465c319b-6963-4e61-a3ab-2bd407947fbf@snapp.ir:80?path=%2F&security=none&encryption=none&host=server-c0053a1c-f7bc-4c77-860c-1fbbcdec175b.ir-thr-si1.arvancompute.ir&type=ws#TEL%3BFather_vpn
-vless://48028784-4999-4447-8dbd-56a551f8dffa@snapp.ir:2082?path=%2F&security=none&encryption=none&host=iran.zebra-license.ir&type=ws#TEL%3BFather_vpn
