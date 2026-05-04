@@ -6,6 +6,7 @@ vless://0d8a0803-8db1-4f91-92d7-e04ce32606f2@snapp.ir:80?encryption=none&type=ws
 vless://687fd1d5-2290-4fa7-b94c-6eef1cee75f1@negin.nahidapp.com:443?path=%2Fnegin%2F&security=tls&encryption=none&insecure=1&host=negin.nahidapp.com&type=ws&allowInsecure=1&sni=negin.nahidapp.com#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 vless://eef82e78-5a10-ac23-747b-43569143c696@i-love-iran.amlakayuni.ir:2087?path=%2F%3Fed%3D2087&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=i-love-iran.amlakayuni.ir&fp=randomized&type=ws&sni=i-love-iran.amlakayuni.ir#%40filtershekan_channel
 trojan://telegram-id-privatevpns@35.181.209.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@52.47.165.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.76.104:46000?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=/?ed=2560&Telegram#
 vless://865b827a-c0a6-4624-a452-db3ed0c141ea@185.143.233.122:8880?path=%2F&security=none&encryption=none&host=ua1.kianorbit.ir&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
@@ -37,4 +38,3 @@ vless://74afc380-4410-410c-a3f3-999d975bad19@haji.nahidapp.com:443?encryption=no
 trojan://telegram-id-privatevpns@15.188.112.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 vless://7b99dbaf-8259-4e95-97ee-17ea6e085ded@Ikco.ir:8080?path=%2Fcdn&security=none&encryption=none&host=cp.movizdl.ir&type=ws#TEL%3BFather_vpn
 vless://Telegram-Parsashonam@94.130.13.19:443?encryption=none&security=tls&sni=gateway-api.sigs.k8s.io&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=mzze.netlify.app&path=%2Fp4r34m&mode=auto#%40archivetell_gateway-api.sigs.k8s.io_94.130.13.19
-vless://Telegram-Parsashonam@94.130.13.19:443?encryption=none&security=tls&sni=letsencrypt.org&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=mzze.netlify.app&path=%2Fp4r34m&mode=auto#%40archivetell_letsencrypt.org_94.130.13.19
