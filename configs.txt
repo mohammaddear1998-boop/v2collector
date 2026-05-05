@@ -1,8 +1,12 @@
-vless://63dec125-97b1-4c55-b11d-5022983ea614@snapp.ir:80?path=%2F&security=none&encryption=none&host=cdn.softnetconnect.ir&type=ws#%40filtershekan_channel
-vless://f7eb8f36-8902-494e-9c4e-8a4044f3033a@anten.ir:443?path=%2F&security=tls&alpn=h3&encryption=none&host=sb1.pbvsrk.carnagesv.top&fp=random&type=ws&sni=sb1.pbvsrk.carnagesv.top#%F0%9F%93%8A
 vless://20d78284-fe65-4a9c-921c-a50138380f16@snapp.ir:80?path=%2FFIRELINKKVPN&security=none&encryption=none&host=firelinkk.arian-go-internet.ir&type=ws#TEL%3BFather_vpn
 vless://adea5f62-81cc-4cd6-bf3a-9996d6608912@snapp.ir:8880?path=%2Fws%3Fed%3D2560&security=none&encryption=none&host=New1.legendperm.ir&type=ws#@aloconfig_com
 trojan://telegram-id-privatevpns@3.123.178.214:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
+vless://Telegram-Parsashonam@50.7.5.85:443?encryption=none&security=tls&sni=kubernetes.io&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=mz-r8h73.netlify.app&path=%2Fp4r34m&mode=auto#%F0%9F%8C%90%20%40IR_NETLIFY%20%20kubernetes.io%20%2050.7.5.85
+vless://Telegram-Parsashonam@50.7.5.85:443?encryption=none&security=tls&sni=cluster-api.sigs.k8s.io&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=mz-r8h73.netlify.app&path=%2Fp4r34m&mode=auto#%F0%9F%8C%90%20%40IR_NETLIFY%20%20cluster-api.sigs.k8s.io%20%2050.7.5.85
+vless://Telegram-Parsashonam@50.7.5.85:443?encryption=none&security=tls&sni=gateway-api.sigs.k8s.io&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=mz-r8h73.netlify.app&path=%2Fp4r34m&mode=auto#%F0%9F%8C%90%20%40IR_NETLIFY%20%20gateway-api.sigs.k8s.io%20%2050.7.5.85
+vless://Telegram-Parsashonam@50.7.5.85:443?encryption=none&security=tls&sni=letsencrypt.org&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=mz-r8h73.netlify.app&path=%2Fp4r34m&mode=auto#%F0%9F%8C%90%20%40IR_NETLIFY%20%20letsencrypt.org%20%2050.7.5.85
+vless://63dec125-97b1-4c55-b11d-5022983ea614@snapp.ir:80?path=%2F&security=none&encryption=none&host=cdn.softnetconnect.ir&type=ws#%40filtershekan_channel
+vless://f7eb8f36-8902-494e-9c4e-8a4044f3033a@anten.ir:443?path=%2F&security=tls&alpn=h3&encryption=none&host=sb1.pbvsrk.carnagesv.top&fp=random&type=ws&sni=sb1.pbvsrk.carnagesv.top#%F0%9F%93%8A
 trojan://telegram-id-privatevpns@15.188.230.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 vless://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&sid=958639bf55e679&type=tcp&headerType=none#%20
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?encryption=none&security=none&type=grpc#%20
@@ -34,7 +38,3 @@ vless://106d20f6-d70a-40e2-b69b-8e82baf8d117@staging.lastilhame.monster:443?type
 vless://697b47d0-02bc-4739-bb70-8c7b1da50a1c@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%40internet_azad_2026%F0%9F%A9%B5
 vless://73805cfb-4535-4797-9ad4-9e13c8dd5b3d@Ikco.ir:8080?path=%2Fcdn&security=&encryption=none&host=cp.movizdl.ir&type=ws#%40iProxyChannel%201
 vless://469b6631-f0ab-4ad7-93af-869dd32535e3@president.ir:80?path=%2F&security=&encryption=none&host=al1.apicallminecrafegame.online&type=ws#%40iProxyChannel%202
-vless://2b3497dd-c0db-4506-b3e2-8b9e2e2df26c@snapp.ir:80/?type=ws&encryption=none&path=%2F&host=service.nexorasmartlab.ir&security=none#proxymelimon
-trojan://telegram-id-privatevpns@13.39.30.161:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
-vless://230372ce-2a9f-4643-a74d-db5449b6b9cd@arvancloud.ir:80?path=%2F&security=none&encryption=none&host=t1.tunnellinuweb.ir&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
-trojan://telegram-id-privatevpns@63.184.19.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
