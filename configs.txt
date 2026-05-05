@@ -1,3 +1,13 @@
+trojan://telegram-id-privatevpns@35.180.106.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
+vless://Telegram-Parsashonam@kubernetes.io:443?encryption=none&security=tls&sni=kubernetes.io&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=mzze.netlify.app&path=%2Fp4r34m&mode=auto#%F0%9F%8C%90%20%40IR_NETLIFY%20%20%20kubernetes.io
+vless://Telegram-Parsashonam@jobset.sigs.k8s.io:443?encryption=none&security=tls&sni=jobset.sigs.k8s.io&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=mzze.netlify.app&path=%2Fp4r34m&mode=auto#%F0%9F%8C%90%20%40IR_NETLIFY%20%20%20jobset.sigs.k8s.io
+trojan://telegram-id-privatevpns@51.45.11.214:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
+vless://Telegram-Parsashonam@jobset.sigs.k8s.io:443?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&type=tcp&sni=jobset.sigs.k8s.io#%40V2rayRoom
+vless://472cc766-8cf8-45db-93f1-01d08259aa01@snapp.ir:8080?path=%2F&security=none&encryption=none&host=code.maktabmotahari.ir&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
+vless://c09816d1-9b53-4e0d-85a8-9def477121ab@185.143.233.122:80?path=%2Fws&security=none&encryption=none&host=cdnisfucka.drnimaamini.ir&type=ws#%40filtershekan_channel
+vless://66f73678-34a5-4863-bd7b-cba151a2562e@185.143.233.5:2086?path=%2F&security=none&encryption=none&host=cdn.sesrsa.com&type=ws#%40filtershekan_channel
+trojan://telegram-id-privatevpns@3.66.80.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
+vless://bc6dd5e1-5e3a-408d-a936-f6d64bac65c1@varzesh3.com:2082?path=%2F&security=none&encryption=none&host=snappp.khanumjan.ir&type=ws#%40V2rayRoom
 vless://20d78284-fe65-4a9c-921c-a50138380f16@snapp.ir:80?path=%2FFIRELINKKVPN&security=none&encryption=none&host=firelinkk.arian-go-internet.ir&type=ws#TEL%3BFather_vpn
 vless://adea5f62-81cc-4cd6-bf3a-9996d6608912@snapp.ir:8880?path=%2Fws%3Fed%3D2560&security=none&encryption=none&host=New1.legendperm.ir&type=ws#@aloconfig_com
 trojan://telegram-id-privatevpns@3.123.178.214:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
@@ -5,7 +15,6 @@ vless://Telegram-Parsashonam@50.7.5.85:443?encryption=none&security=tls&sni=kube
 vless://Telegram-Parsashonam@50.7.5.85:443?encryption=none&security=tls&sni=cluster-api.sigs.k8s.io&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=mz-r8h73.netlify.app&path=%2Fp4r34m&mode=auto#%F0%9F%8C%90%20%40IR_NETLIFY%20%20cluster-api.sigs.k8s.io%20%2050.7.5.85
 vless://Telegram-Parsashonam@50.7.5.85:443?encryption=none&security=tls&sni=gateway-api.sigs.k8s.io&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=mz-r8h73.netlify.app&path=%2Fp4r34m&mode=auto#%F0%9F%8C%90%20%40IR_NETLIFY%20%20gateway-api.sigs.k8s.io%20%2050.7.5.85
 vless://Telegram-Parsashonam@50.7.5.85:443?encryption=none&security=tls&sni=letsencrypt.org&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=xhttp&host=mz-r8h73.netlify.app&path=%2Fp4r34m&mode=auto#%F0%9F%8C%90%20%40IR_NETLIFY%20%20letsencrypt.org%20%2050.7.5.85
-trojan://telegram-id-privatevpns@35.180.106.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 vless://63dec125-97b1-4c55-b11d-5022983ea614@snapp.ir:80?path=%2F&security=none&encryption=none&host=cdn.softnetconnect.ir&type=ws#%40filtershekan_channel
 vless://f7eb8f36-8902-494e-9c4e-8a4044f3033a@anten.ir:443?path=%2F&security=tls&alpn=h3&encryption=none&host=sb1.pbvsrk.carnagesv.top&fp=random&type=ws&sni=sb1.pbvsrk.carnagesv.top#%F0%9F%93%8A
 trojan://telegram-id-privatevpns@15.188.230.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
@@ -29,12 +38,3 @@ vless://eef82e78-5a10-ac23-747b-43569143c696@i-love-iran.amlakayuni.ir:2087?path
 trojan://telegram-id-privatevpns@35.181.209.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@52.47.165.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.76.104:46000?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=/?ed=2560&Telegram#
-vless://865b827a-c0a6-4624-a452-db3ed0c141ea@185.143.233.122:8880?path=%2F&security=none&encryption=none&host=ua1.kianorbit.ir&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
-vless://cb05a23a-4cda-4407-e1c4-e0b421a2af8e@mmd.az99x.info:8880?path=%2F&security=none&encryption=none&type=ws#%40filtershekan_channel
-vless://0c9353bd-2377-4124-86df-c1a51f777954@trex.nahidapp.com:443?path=%2Fvless-ws&security=tls&encryption=none&host=trex.nahidapp.com&fp=chrome&type=ws&sni=trex.nahidapp.com#%40filtershekan_channel
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IEpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTiBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjgiLCJhZGQiOiI4Mi4xOTguMjQ2LjIzMyIsInBvcnQiOiIxODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.227.174.213:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#
-vless://106d20f6-d70a-40e2-b69b-8e82baf8d117@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=60500a63ad12&sni=www.microsoft.com#
-vless://697b47d0-02bc-4739-bb70-8c7b1da50a1c@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#%40internet_azad_2026%F0%9F%A9%B5
-vless://73805cfb-4535-4797-9ad4-9e13c8dd5b3d@Ikco.ir:8080?path=%2Fcdn&security=&encryption=none&host=cp.movizdl.ir&type=ws#%40iProxyChannel%201
