@@ -4,6 +4,8 @@ trojan://telegram-id-privatevpns@52.47.129.227:22222?security=tls&alpn=http/1.1&
 vless://34572e7a-c273-4bef-8a77-c6b2bf6de533@snapp.ir:2082?path=%2F&security=none&encryption=none&host=h.hshonar.ir&type=ws#%40filtershekan_channel
 vless://fba3ac18-1708-4a8b-814a-f815fd09d8a9@arvancloud.ir:2095?encryption=none&host=panel.linuweb.ir&path=%2Fwebsite&security=none&type=ws#@powerro
 trojan://telegram-id-privatevpns@15.224.29.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
+vless://0311dcca-b4a4-42d8-a084-eda5629e3ecb@snapp.ir:80?path=%2F&security=none&encryption=none&host=pan42E.nexoratechcenter.ir&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
+vless://d9e3ba92-6429-45aa-9383-bc8cece5bea7@javid.purples.ir:80?path=%2F&security=none&encryption=none&host=javid-2.toraniq.ir&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 vless://4e016302-be30-4aca-9d12-3759d697124b@a2.grizzlygitt.ir:80?path=%2F&security=none&encryption=none&type=ws#%40GrizzlyVPN
 vless://609f7aa8-d0c9-47fc-a026-7ec166074710@s4.tehranionliine.ir:80?path=%2F&security=&encryption=none&type=ws#%F0%9F%92%8EnD6QlOcNgX
 vless://a3d096e0-1ed1-318c-16d2-0667e91ce11f@hmt.masterdadeh.ir:80?path=%2F&security=none&encryption=none&type=ws&sni=185.226.94.242#%40filtershekan_channel
@@ -36,5 +38,3 @@ vless://bc6dd5e1-5e3a-408d-a936-f6d64bac65c1@varzesh3.com:2082?path=%2F&security
 vless://2bfea3fd-6826-480c-917d-e3bc99b47a0f@193.233.133.55:443?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=13qS12jjsHCQpQfL3tEL2nHltgoTp1i-8kVcJ6odrEQ&sid=6635&type=tcp&headerType=none#%20
 vless://472cc766-8cf8-45db-93f1-01d08259aa01@snapp.ir:8080?path=%2F&security=none&encryption=none&host=code.maktabmotahari.ir&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 vless://c09816d1-9b53-4e0d-85a8-9def477121ab@185.143.233.122:80?path=%2Fws&security=none&encryption=none&host=cdnisfucka.drnimaamini.ir&type=ws#%40filtershekan_channel
-vless://66f73678-34a5-4863-bd7b-cba151a2562e@185.143.233.5:2086?path=%2F&security=none&encryption=none&host=cdn.sesrsa.com&type=ws#%40filtershekan_channel
-trojan://telegram-id-privatevpns@35.180.106.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
