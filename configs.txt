@@ -1,10 +1,14 @@
-vless://ccd55491-6b15-4e13-8a9a-d5e87fd9be36@snapp.ir:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#%40powerro%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-vless://4d8b0067-1d60-43de-9538-722d7476921c@snapp.ir:80?path=%2F&security=none&encryption=none&host=mypassvps-b1eed1fa2e-xprojer.apps.ir-central1.arvancaas.ir&type=ws#https%3A%2F%2Ft.me%2FSTARVPN
-vless://72aba962-4f2d-459e-89a2-c8b2f89433d6@ads.restaurantplusy.ir:2052?path=%2F&security=none&encryption=none&host=ads.restaurantplusy.ir&type=ws#https://t.me/STARVPN
 trojan://telegram-id-privatevpns@63.180.116.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 vless://a34bbc37-566c-4d31-8401-26fe0f9d6f7d@out2.tehranionliine.ir:80?path=%2F&security=none&encryption=none&type=ws#TEL%3BFather_vpn
 vless://58715b6d-83c2-4695-b536-e5de12913eb6@t1.arshiaspeed.shop:2086?path=%2F&security=none&encryption=none&type=ws#%40TirexNet%20%7C%20%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8%DB%8C
 trojan://telegram-id-privatevpns@51.44.92.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@15.224.80.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
+vless://ce5ccdd9-a6f8-488f-aaa1-e5d66b9f9133@185.143.233.235:80?path=%2F&security=none&encryption=none&host=d.nsa03.com&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
+vless://a5449edb-5574-4c73-b6d6-3e00d693672d@185.143.233.122:80?path=%2Flord&security=none&encryption=none&host=esy.aigameapps.ir&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
+vless://525f27e1-1fd9-4f27-9a73-5dd9f6760466@185.143.233.235:8880?type=ws&encryption=none&path=%2Fws%3Fed%3D2560&host=New1.legendperm.ir&security=none#@aloconfig_com
+vless://ccd55491-6b15-4e13-8a9a-d5e87fd9be36@snapp.ir:80?path=%2F%3Fed%3D2080&security=none&encryption=none&host=1.jojo.avenflow.ir&type=ws#%40powerro%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
+vless://4d8b0067-1d60-43de-9538-722d7476921c@snapp.ir:80?path=%2F&security=none&encryption=none&host=mypassvps-b1eed1fa2e-xprojer.apps.ir-central1.arvancaas.ir&type=ws#https%3A%2F%2Ft.me%2FSTARVPN
+vless://72aba962-4f2d-459e-89a2-c8b2f89433d6@ads.restaurantplusy.ir:2052?path=%2F&security=none&encryption=none&host=ads.restaurantplusy.ir&type=ws#https://t.me/STARVPN
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.243.112.34:443?encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&security=reality&sni=api.company-target.com&type=tcp#
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.136.176:6593?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.93.253.207:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#
@@ -34,7 +38,3 @@ vless://0d29b6f5-d8da-4b5d-8e92-0f06e06aa322@VARZESH3.COM:2096?path=%2F&security
 vless://9f213734-bbf7-4209-8e36-d533375bc6d4@snapp.ir:80?encryption=none&host=n1.abantrust.ir&path=%2F&security=none&type=ws#%E2%9C%A8%EF%B8%8F-73589_powerro-1.00GB%F0%9F%93%8A-2D%E2%8F%B3
 vless://c506ac8d-225b-4af3-8442-740ce3e43684@snapp.ir:2052?encryption=none&type=ws&path=%2F&host=dn.bigmeow.ir&security=none#%F0%9F%A6%89%40FreeConfigForYou
 vless://b48ee6d1-495e-42cb-aa2e-613602b9cbe0@185.143.233.5:2095?path=%2F&security=none&encryption=none&host=p1.sesrsa.com&type=ws#%40Bullshit_iU
-vless://7b048a03-a987-4957-9171-4475094dc7d6@ger1bot-ws.headerip.com:80?path=%2F&security=none&encryption=none&host=ger1.mv5.ir&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
-vless://318adaa4-6f45-46e7-b6e6-9c0a08ae1580@185.143.233.5:443?path=%2F%40alaedin%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=alaedin7.8lack.ir&fp=firefox&type=ws&allowInsecure=0&sni=alaedin7.8lack.ir#%40ProxyMTProtoIR
-vless://87e624d8-d5e7-4f0b-aaf6-07d52ad581cf@snapp.ir:2086?path=%2F&security=none&encryption=none&host=sas.turbomail.ir&type=ws#h8ufeqzd-1023.99MB%F0%9F%93%8A
-vless://e708da72-58cf-4e52-97be-fc6116c1a8b4@ip.amirenzo.ir:80?encryption=none&host=baz.amirenzohost.ir&path=%2F&security=none&type=ws#powerro
