@@ -1,7 +1,3 @@
-vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@5.182.36.90:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&security=reality&sid=0c80cc39&sni=store.steampowered.com&type=tcp#%40v2rayconfigamir%202035
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.59.117.238:8443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=1&allowInsecure=1&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%40v2rayconfigamir%203814
-vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@84.234.16.169:443?&security=tls&sni=edt2-lgy.pages.dev&type=ws&headerType=none&host=edt2-lgy.pages.dev&path=/#%40v2rayconfigamir%208597
-vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@45.12.111.151:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=store.steampowered.com&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&sid=0c80cc39#%40v2rayconfigamir%205998
 trojan://8r%3C%5B9%27l6hAO%238ZQi@159.65.51.105:2083?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%40v2rayconfigamir%207395
 trojan://8r%3C%5B9%27l6hAO%238ZQi@178.62.111.180:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%40v2rayconfigamir%202214
 vless://5da5bc00-ea44-462e-bdb7-7687346ad039@3.8.160.120:18633?type=tcp&encryption=none&security=reality&pbk=tpovASeNxNkqDfPZhr2raGUY6pis-9XSLCB6DrIEU1g&fp=firefox&sni=www.yahoo.com&sid=d9029b790f10b2e2&spx=/&flow=xtls-rprx-vision#%40v2rayconfigamir%208584
@@ -9,6 +5,11 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@144.126.193.181:2053?host=Koma-YT.PAGeS.Dev&pa
 trojan://8r%3C%5B9%27l6hAO%238ZQi@159.65.51.189:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%40v2rayconfigamir%205867
 vless://ecc19b72-2cc8-4690-b23d-960d3e3c6d40@172.64.146.118:8443?path=TELEGRAM-MARAMBASHI%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg24.pages.dev&fp=random&type=ws&sni=pardazeshvpn-tg24.pages.dev#%40v2rayconfigamir%206085
 vless://9a39f63e-28c8-4560-af18-b01b9916ef1b@104.18.41.138:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazesh-tgws.pages.dev&type=ws&sni=pardazesh-tgws.pages.dev#%40v2rayconfigamir%203363
+trojan://telegram-id-privatevpns@18.197.233.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
+vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@5.182.36.90:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&security=reality&sid=0c80cc39&sni=store.steampowered.com&type=tcp#%40v2rayconfigamir%202035
+trojan://8r%3C%5B9%27l6hAO%238ZQi@45.59.117.238:8443?security=tls&sni=Koma-YT.PAGeS.Dev&insecure=1&allowInsecure=1&type=ws&host=Koma-YT.PAGeS.Dev&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%40v2rayconfigamir%203814
+vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@84.234.16.169:443?&security=tls&sni=edt2-lgy.pages.dev&type=ws&headerType=none&host=edt2-lgy.pages.dev&path=/#%40v2rayconfigamir%208597
+vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@45.12.111.151:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=store.steampowered.com&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&sid=0c80cc39#%40v2rayconfigamir%205998
 trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#https%3A%2F%2Ft.me%2Fv2rayRoom
 trojan://telegram-id-privatevpns@15.188.28.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@35.180.235.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
@@ -37,4 +38,3 @@ vmess://eyJhZGQiOiI0Ny4yNDMuMTM1Ljc0IiwicG9ydCI6IjU1MTg1IiwiaWQiOiIxMzc1OTg1ZS0z
 vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciAzODA4IiwiYWRkIjoibjE3NTMxMDEyNzcuNHU5bWEuaWN1IiwicG9ydCI6NDQzLCJpZCI6IjZlYTQ4ZGZlLTdkZTItNDVkYy05MjY3LWQ0ZDllZmZhZDlmYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.168.16.112:443?allow_insecure=0&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=babayaga-6i7.pages.dev&type=ws#%40v2rayconfigamir%209892
 vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA4ODU4IiwiYWRkIjoibjE3NTMzNDg3MzYubGllNWQuY3lvdSIsInBvcnQiOjQ0MywiaWQiOiJmMjY3ZWFjMy1kZmI0LTQ1YmUtYTQ4MC03ZTE4NDdjYTA0YWIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ==
-vless://360f1d71-f8dd-4c71-aa4f-347486312dca@hk.chinablog.xyz:8080?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=bXstTdAgEyOn8LEMM_K2gIOw7T2iKhr6l-lXcrF4PlM&sni=www.liblib.art#%40v2rayconfigamir%203513
