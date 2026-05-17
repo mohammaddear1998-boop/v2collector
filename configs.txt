@@ -1,5 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.150.157:990#%40v2rayconfigamir%208156
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@139.84.235.99:443?type=ws&encryption=none&host=1-jk1.pages.dev&path=%2F&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=&fp=chrome&insecure=1&sni=1-jk1.pages.dev#%40v2rayconfigamir%206237
 trojan://opentunnel.net-usa30day@15.204.9.172:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#%40v2rayconfigamir%205900
 trojan://opentunnel.net-english30day@54.37.18.204:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#%40v2rayconfigamir%209029
 trojan://telegram-id-privatevpns@3.64.141.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
@@ -8,6 +6,10 @@ vless://d428091c-e6eb-48f9-9a07-b44eb886ac90@2.27.26.36:443?security=reality&sni
 vless://67001098-9d9f-4ab5-995a-6c297be549c3@nexus.itsazan.info:2083?path=%2Fapi%2Fv1%2Fusers&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=nexus.itsazan.info&fp=chrome&type=ws&allowInsecure=0&sni=nexus.itsazan.info#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
 trojan://telegram-id-privatevpns@15.236.132.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@15.237.54.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
+trojan://telegram-id-privatevpns@63.182.26.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
+vless://2afabae4-6a9f-4b41-afa1-97f1cba88b26@185.143.233.5:2096?encryption=none&type=ws&security=tls&path=%2F&host=p1.sesrsa.com&sni=sub.sesrsa.com&fp=firefox&allowInsecure=0#Vasl_b
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.150.157:990#%40v2rayconfigamir%208156
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@139.84.235.99:443?type=ws&encryption=none&host=1-jk1.pages.dev&path=%2F&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=&fp=chrome&insecure=1&sni=1-jk1.pages.dev#%40v2rayconfigamir%206237
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233?type=tcp#%40v2rayconfigamir%205104
 vless://b4e6c21d-3931-4907-b739-00224db4299c@ir120-api.boornakood.ir:443?encryption=none&type=ws&security=tls&path=%2Fsites%2Fbrn%2Fbackup.zip&host=ir120-assets.boornakood.ir&sni=ir120-assets.boornakood.ir&alpn=h2&fp=chrome&allowInsecure=1#@electvpn0
 vless://b4e6c21d-3931-4907-b739-00224db4299c@ir120-assets.boornakood.ir:443?encryption=none&type=ws&security=tls&path=%2Fsites%2Fbrn%2Fbackup.zip&host=ir120-assets.boornakood.ir&sni=ir120-assets.boornakood.ir&alpn=h2&fp=chrome&allowInsecure=1#@electvpn0
@@ -36,5 +38,3 @@ trojan://telegram-id-privatevpns@63.183.179.231:22222?security=tls&alpn=http/1.1
 vless://5de0e612-c9f3-4a0e-95f5-0827c624719c@trex.docos.tech:443?path=%2Fvless-ws&security=tls&encryption=none&insecure=0&host=trex.docos.tech&fp=chrome&type=ws&allowInsecure=0&sni=trex.docos.tech#%40V2ray_confiig
 vless://d9f572ad-8f5b-4911-9c43-a7dffb5068c6@104.198.14.52:443?mode=auto&path=%2Fcrowsnetwork&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%221-1%22%7D&insecure=1&host=taupe-medovik-95e523.netlify.app&type=xhttp&allowInsecure=1&sni=104.198.14.52#%40V2ray_confiig
 vless://6ab94022-1895-4620-b06c-5f437f83908e@snapp.ir:8080?path=%2FEmbestpro1&security=&encryption=none&host=Cyrus.zomavo.ir&type=ws#%40V2ray_confiig
-vless://3095e475-e511-42d3-b009-0f7ccdcf4a23@snapp.ir:80?path=%2F&security=none&encryption=none&host=sv1.vexnetvps.site&type=ws#%40V2ray_confiig
-vless://e1dc29a6-c301-4562-a139-34aa3e4ef2a9@twt.ghapol.ir:80?path=%2F&security=none&encryption=none&host=botp.bexora.ir&type=ws#%40V2ray_confiig
