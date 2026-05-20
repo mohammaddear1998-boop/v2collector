@@ -1,8 +1,3 @@
-trojan://humanity@sourceforge.net:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#%40v2rayRoom
-vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=sv-1.jservices.ir&type=ws#%40v2rayRoom
-vless://cb8ad1f0-85ef-4659-a65d-b4e01baf587d@sbb.4nel.ir:2052?path=%2F&security=none&encryption=none&host=sbb.4nel.ir&type=ws#%40v2rayRoom
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.229.21:2096?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%40v2rayRoom
-trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#%40v2rayRoom
 trojan://telegram-id-privatevpns@51.102.92.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@35.180.151.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@13.39.101.184:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
@@ -13,6 +8,15 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?type=tcp&encryp
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@218.158.249.174:10000?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560#
 trojan://telegram-id-privatevpns@63.176.4.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@13.37.207.166:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
+vless://84a8c458-72e8-4ad3-a2c3-17a1e3f9e399@snapp.ir:80?path=%2F&security=none&encryption=none&host=user.neternet.ir&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%97%BE+prrofile_purple%40
+vless://e41b8db0-d98d-4651-8c6d-335120a9eadc@185.143.234.235:2086?path=%2Fws&security=none&encryption=none&host=mobo.imobotouch.ir&type=ws#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
+vless://74816983-e4d9-46e5-a0e6-11f55d361e1e@arvancloud.ir:2086?type=ws&encryption=none&path=%2Fcode&host=xtco.jorvnora.ir&security=none#
+vless://f829c917-6eeb-4250-aa0f-ca33f91352f7@ww.parspas.ir:8880?path=%2F&security=none&encryption=none&type=ws#@aloconfig_com
+trojan://humanity@sourceforge.net:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#%40v2rayRoom
+vless://f9aeba2c-4c68-11f1-8d30-2ddfba49052f@185.143.234.235:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=sv-1.jservices.ir&type=ws#%40v2rayRoom
+vless://cb8ad1f0-85ef-4659-a65d-b4e01baf587d@sbb.4nel.ir:2052?path=%2F&security=none&encryption=none&host=sbb.4nel.ir&type=ws#%40v2rayRoom
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.19.229.21:2096?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%40v2rayRoom
+trojan://humanity@104.19.229.21:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#%40v2rayRoom
 vless://e65b507d-4c73-41fb-9400-13d06a1ab446@snapp.ir:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&insecure=0&host=iran.cofebazi369.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=iran.cofebazi369.ir#%40Pi
 vless://424e2521-b539-4f42-8be0-77d8612e96d7@snapp.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=user.neternet.ir&type=xhttp#%D8%A8%D8%B1%D8%A7%DB%8C+%D8%A7%D8%AA%D8%B5%D8%A7%D9%84+%D8%AF%D8%A7%D8%A6%D9%85%DB%8C+%D8%AC%D9%88%DB%8C%D9%86+%D8%B4%D9%88%F0%9F%97%BE+prrofile_purple%40
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#
@@ -34,7 +38,3 @@ vless://98e2a7aa-2f22-4829-893a-7c8f7e8ba8ce@anten.ir:2052?path=%2Fcdn&security=
 vless://9f5a8dee-efe9-4c5a-9f96-8d3e632586b6@www.varzesh3.com:2095?path=%2Fchat%3Fed%3D128&security=none&encryption=none&host=dl2.mizbanertebatfarda.ir&type=ws#TEL%3BFather_vpn
 trojan://telegram-id-privatevpns@3.122.111.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)
 vless://557ad0d8-5a72-48e4-9408-10c04f1c7347@198.169.2.1:443?encryption=none&security=tls&sni=relay-arb3pb5l.vercel.app&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=relay-arb3pb5l.vercel.app&path=%2Fapi&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#%40IR_NETLIFY-XHTTP-vercel
-vless://557ad0d8-5a72-48e4-9408-10c04f1c7347@198.169.2.65:443?encryption=none&security=tls&sni=relay-arb3pb5l.vercel.app&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=xhttp&host=relay-arb3pb5l.vercel.app&path=%2Fapi&mode=auto&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D#%40IR_NETLIFY-XHTTP-vercel
-vless://75d93baf-46d2-48f3-8d51-4ac943f88830@varzesh3.com:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=user.chinie.ir&fp=chrome&type=ws&allowInsecure=0&sni=user.chinie.ir#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
-vless://4888fea3-24f9-416d-acec-1b63613bb6ee@snapp.ir:80?type=ws&encryption=mlkem768x25519plus.native.0rtt.VnC8i7IdSEuFAvYGW1KGSjti_NKtygg9GT25m-Mgl1Y&path=%2FPahlaviTeam&host=amyrax.x2n2.ir&security=none#@electvpn0
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#%20
