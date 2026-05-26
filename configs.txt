@@ -1,3 +1,7 @@
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.6:8443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%40FREECONFIGSPLUS
+trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
+vless://4a722f86-57fe-4e9d-b42f-19c73d59f137@188.121.123.39:2003?type=tcp&security=none&encryption=none#MODASRVPN-4a722f
+vless://252272d5-74df-4e86-b603-5894e9b06ef5@172.67.158.125:443?path=%2F&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=pro.nimbaha.info&fp=chrome&type=ws&sni=PrO.nImBaHa.InFo#%40RoyalVPN1%F0%9F%92%9A+%C2%B9
 trojan://humanity@188.114.96.4:443?allowInsecure=1&alpn=http%2F1.1&path=%2Fassignment&sni=www.calmloud.com&type=ws#Echo_Center
 vless://09a87b3f-289d-487f-99da-486698b43bc2@snapp.ir:80?path=%2Fhajiiiips&security=none&encryption=none&host=arad.starweb.sbs&type=ws#@InfoTech_VK
 trojan://telegram-id-privatevpns@63.176.15.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)
@@ -34,7 +38,3 @@ vless://482e8925-e7e5-46b8-9e9e-f759b872c2e6@snappfood.ir:2052?path=%2Fws&securi
 vless://29b2ea2e-44a8-a3f2-79be-29781b78d787@varzesh3.com:8080?encryption=none&type=ws&path=%2F&host=cdn-665e-o0g.fars-rehan.ir#%40Anthony-2
 vless://1beef890-f0f3-4b8d-bc9c-dba78374dd02@anten.ir:2086?encryption=none&type=ws&path=%2F&host=hap.kalaleh24.ir#%5B%40Anthony%5D-%F0%9F%87%AE%F0%9F%87%B7A31
 vless://5873559a-48d1-4aa5-b302-52f3939f216f@plusred0shop8.lol:2052?type=ws&encryption=none&path=%2FYP&host=Plusred0shop8.lol&security=none#Anthony
-vless://5654b922-2aa3-47c2-bc60-09d59c9cf495@198.169.2.1:443?mode=auto&path=%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=relay-g356jz7c.vercel.app&fp=chrome&type=xhttp&allowInsecure=0&sni=relay-g356jz7c.vercel.app#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%97%BE%20prrofile_purple%40
-trojan://telegram-id-privatevpns@13.37.60.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#%20
-trojan://telegram-id-privatevpns@35.181.10.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)
