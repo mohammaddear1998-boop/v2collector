@@ -1,4 +1,3 @@
-vless://88e43fc6-3d53-433c-adf4-d7bfb1f33e5f@solar.appleseraj.ir:2083?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=nurenbccc.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbccc.appleseraj.ir#TEL%3BFather_vpn
 vless://d3d962b1-7fc4-4f34-8292-b57e75cd0316@162.159.153.79:2083?path=%2F&security=tls&encryption=none&insecure=0&host=purple-water-9854.ipcfchannel.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=purple-water-9854.ipcfchannel.workers.dev#`@`fr33c0nfig
 vless://d3d962b1-7fc4-4f34-8292-b57e75cd0316@172.64.144.251:2087?path=%2F&security=tls&encryption=none&insecure=0&host=purple-water-9854.ipcfchannel.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=purple-water-9854.ipcfchannel.workers.dev#@fr33c0nfig
 vless://d3d962b1-7fc4-4f34-8292-b57e75cd0316@198.41.223.184:2096?path=%2F&security=tls&encryption=none&insecure=0&host=purple-water-9854.ipcfchannel.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=purple-water-9854.ipcfchannel.workers.dev#@fr33c0nfig
@@ -12,6 +11,7 @@ vless://acd15093-fc20-418e-aeb6-e500d0509255@snapp.ir:8443?alpn=h2%2Chttp%2F1.1&
 vless://49882640-5877-4f73-a49e-86e209d080a9@sffrddo5rybf.hosted-in.iranray.online:2052?path=%2FphpMyAdmin%3Fq%3D%E4%B8%80%E4%BD%8D%E8%99%95%E5%A5%B3%E5%9C%A8%E5%AD%AB%E5%85%88%E7%94%9F%E7%9A%84%E8%BE%B2%E5%A0%B4%E5%B7%A5%E4%BD%9C%E3%80%82&security=none&encryption=none&host=6lSgiOjDyzd2Rxz15FFDMW.ch3.node.tnw.of.to&type=httpupgrade&sni=sffrddo5rybf.hosted-in.iranray.online#@mtproto_proserver
 vless://Vpn_Shield@45.130.125.69:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=sell.sigikala.site&fp=chrome&type=xhttp&allowInsecure=0&sni=sell.sigikala.site#@mtproto_proserver
 vless://73dd2e32-eb5b-4187-a7da-36d4d1a4c719@193.233.133.63:80?path=%2F&security=&encryption=none&type=ws#@mtproto_proserver
+vless://88e43fc6-3d53-433c-adf4-d7bfb1f33e5f@solar.appleseraj.ir:2083?path=%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=nurenbccc.appleseraj.ir&fp=chrome&type=ws&allowInsecure=0&sni=nurenbccc.appleseraj.ir#TEL%3BFather_vpn
 vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@nl-tx.sbrf-cdn342.ru:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=%2F&headerType=none&fp=qq&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru#%40NETMelliAnti
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRW5aZWRwMm1rVGJUMXFD@4.168.201.246:443#%40NETMelliAnti
 vless://76c90255-68d0-46a5-8369-83522f8cb329@104.27.194.101:80?path=%2Feploy&security=none&encryption=none&host=g2.titanv.sbs&type=httpupgrade#%40NETMelliAnti
